@@ -1,0 +1,56 @@
+DlgVersion 7
+DlgName "DlgShooter"
+DlgGuid {  A -1511953943 B 1155053321 C -197994361 D -916159837 }
+Node_Speech StartNode
+{
+	Text ""
+	SpeakerState "None"
+	bIsVirtualParent False
+	OwnerName "None"
+	bCheckChildrenOnEvaluation False
+	VoiceSoundWave ""
+	VoiceDialogueWave ""
+	Children { {  TargetIndex 0 Text "Next" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+}
+DlgParticipantClasses
+{
+	{  ParticipantName "Shooter" ParticipantClass "/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Shooter.CH_Shooter_C" }
+	{  ParticipantName "TVTM" ParticipantClass "/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C" }
+}
+Node Nodes
+{
+	// 0
+	Node_Speech 
+	{
+		Text "hm"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "TVTM"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children
+		{
+			{  TargetIndex 1 Text "slish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True }
+			{  TargetIndex 2 Text "finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True }
+		}
+	}
+	// 1
+	Node_Speech 
+	{
+		Text "R0t 3Bal"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Shooter"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children { {  TargetIndex 2 Text "Finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 2
+	Node_End 
+	{
+		OwnerName "Shooter"
+		bCheckChildrenOnEvaluation False
+	}
+}

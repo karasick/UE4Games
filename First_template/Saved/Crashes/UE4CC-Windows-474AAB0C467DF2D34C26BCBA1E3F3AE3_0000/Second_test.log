@@ -1,0 +1,1333 @@
+﻿Log file open, 07/29/18 18:18:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Second_test
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-307895100) SRandInit(-307895100).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.324508
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.185s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../Projects/Second_test 4.19/Binaries/Win64/UE4Editor-Second_test.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-D2CAQ2D (192.168.1.6:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.017s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.29-15.18.20:641][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.29-15.18.20:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.29-15.18.20:716][  0]LogInit: Computer: DESKTOP-D2CAQ2D
+[2018.07.29-15.18.20:717][  0]LogInit: User: Karasb
+[2018.07.29-15.18.20:717][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.29-15.18.20:717][  0]LogInit: High frequency timer resolution =3.215352 MHz
+[2018.07.29-15.18.20:717][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.29-15.18.20:717][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.29-15.18.20:717][  0]LogMemory: Process Physical Memory: 274.09 MB used, 274.09 MB peak
+[2018.07.29-15.18.20:717][  0]LogMemory: Process Virtual Memory: 263.75 MB used, 263.75 MB peak
+[2018.07.29-15.18.20:717][  0]LogMemory: Physical Memory: 3880.13 MB used,  4248.13 MB free, 8128.25 MB total
+[2018.07.29-15.18.20:717][  0]LogMemory: Virtual Memory: 4774.95 MB used,  4248.13 MB free, 134217728.00 MB total
+[2018.07.29-15.18.21:339][  0]LogInit: Using OS detected language (ru-RU).
+[2018.07.29-15.18.21:339][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.07.29-15.18.21:514][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.07.29-15.18.22:349][  0]LogStreaming: Display: Took  0.997s to EndInitTextLocalization.
+[2018.07.29-15.18.22:368][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.29-15.18.22:558][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.29-15.18.22:558][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.29-15.18.26:236][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.29-15.18.26:294][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 650 Ti' (Feature Level 11_0)
+[2018.07.29-15.18.26:295][  0]LogD3D11RHI:       2017/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.29-15.18.26:296][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.29-15.18.26:296][  0]LogD3D11RHI:       0/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.29-15.18.26:296][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.29-15.18.26:301][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.29-15.18.26:301][  0]LogD3D11RHI:     GPU DeviceId: 0x11c6 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.29-15.18.26:301][  0]LogWindows: EnumDisplayDevices:
+[2018.07.29-15.18.26:302][  0]LogWindows:    0. 'NVIDIA GeForce GTX 650 Ti' (P:1 D:1)
+[2018.07.29-15.18.26:302][  0]LogWindows:    1. 'NVIDIA GeForce GTX 650 Ti' (P:0 D:0)
+[2018.07.29-15.18.26:302][  0]LogWindows:    2. 'NVIDIA GeForce GTX 650 Ti' (P:0 D:0)
+[2018.07.29-15.18.26:302][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.29-15.18.26:302][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 650 Ti
+[2018.07.29-15.18.26:302][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.29-15.18.26:302][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.29-15.18.26:302][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.07.29-15.18.26:341][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.29-15.18.26:341][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.29-15.18.26:482][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.29-15.18.26:503][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../Projects/Second_test 4.19/Intermediate/Shaders/WorkingDirectory/6684/).
+[2018.07.29-15.18.26:503][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Karasb/AppData/Local/Temp/UnrealShaderWorkingDir/B6C48931439C9628226BA885356F1AB0/'.
+[2018.07.29-15.18.27:816][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.29-15.18.27:833][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.29-15.18.27:850][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.29-15.18.27:869][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.29-15.18.27:902][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.29-15.18.27:919][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.29-15.18.27:938][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.29-15.18.27:956][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.29-15.18.27:965][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.29-15.18.27:981][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.29-15.18.27:998][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.29-15.18.28:013][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.29-15.18.28:030][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.29-15.18.28:045][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.29-15.18.28:062][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.29-15.18.28:093][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.29-15.18.28:093][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.29-15.18.28:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.29-15.18.28:128][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.29-15.18.28:247][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.29-15.18.28:278][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.29-15.18.28:295][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.29-15.18.28:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.29-15.18.28:325][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.29-15.18.28:360][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.29-15.18.28:360][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.29-15.18.29:387][  0]LogXGEController: Cleaning working directory: C:/Users/Karasb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.29-15.18.29:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.29-15.18.29:388][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.29-15.18.29:388][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.29-15.18.32:111][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.29-15.18.32:617][  0]LogDerivedDataCache: Loaded boot cache 0.51s 83MB C:/Users/Karasb/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.29-15.18.32:618][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Karasb/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.29-15.18.32:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/Second_test 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.29-15.18.32:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.29-15.18.32:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/Second_test 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.29-15.18.32:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.29-15.18.32:697][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.29-15.18.32:709][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Karasb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.29-15.18.32:709][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.29-15.18.32:709][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.29-15.18.32:727][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.29-15.18.32:727][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.29-15.18.32:751][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.29-15.18.32:751][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.29-15.18.39:731][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2018.07.29-15.18.43:489][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.29-15.18.44:503][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.29-15.18.44:550][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.29-15.18.44:550][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.29-15.18.44:550][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.29-15.18.44:551][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.29-15.18.44:551][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.29-15.18.44:670][  0]LogNetVersion: Second_test , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3797687825)
+[2018.07.29-15.18.48:488][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.074045 seconds
+[2018.07.29-15.18.48:495][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.29-15.18.48:495][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.29-15.18.48:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.29-15.19.10:209][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `F6A25E3B4386ABC74C0B27AA66D482FD` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.07.29-15.19.10:212][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.07.29-15.19.10:353][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.29-15.19.10:425][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.29-15.19.11:851][  0]SourceControl: Source control is disabled
+[2018.07.29-15.19.11:853][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:853][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.29-15.19.11:854][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:854][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.29-15.19.11:854][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:854][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.29-15.19.11:854][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:854][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.29-15.19.11:855][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:855][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.29-15.19.11:855][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:855][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.29-15.19.11:856][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:856][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.29-15.19.11:940][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:940][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.29-15.19.11:940][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:940][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.29-15.19.11:941][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:941][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.29-15.19.11:941][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:941][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.29-15.19.11:942][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:942][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.29-15.19.11:942][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:942][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.29-15.19.11:942][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.11:942][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.29-15.19.12:013][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:013][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.29-15.19.12:014][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:014][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.29-15.19.12:014][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:014][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.29-15.19.12:015][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:015][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.29-15.19.12:015][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:015][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.29-15.19.12:015][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:015][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.29-15.19.12:016][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.12:016][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.29-15.19.13:682][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.29-15.19.14:160][  0]LogOcInput: OculusInput pre-init called
+[2018.07.29-15.19.14:330][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.07.29-15.19.14:530][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.07.29-15.19.14:546][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `3976839047FD539CB77B8789817139B9` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.07.29-15.19.14:549][  0]LogDlgSystem: Refreshing data for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.07.29-15.19.15:232][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2c50560, Size=208, Default__BP_Shot_C Function /Game/2DSideScroller/Blueprints/Robot/BP_Shot.BP_Shot_C:ExecuteUbergraph_BP_Shot
+[2018.07.29-15.19.15:236][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2d487c0, Size=264, Default__BP_Evil_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Evil/BP_Evil.BP_Evil_C:ExecuteUbergraph_BP_Evil
+[2018.07.29-15.19.15:451][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2c20400, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-15.19.15:851][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded295ec00, Size=304, Default__DlgWidget_C Function /Game/2DSideScroller/Blueprints/Robot/DlgWidget.DlgWidget_C:ExecuteUbergraph_DlgWidget
+[2018.07.29-15.19.15:881][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded29973d0, Size=16, Default__Widget_Death_C Function /Game/2DSideScroller/Blueprints/Robot/Widget_Death.Widget_Death_C:ExecuteUbergraph_Widget_Death
+[2018.07.29-15.19.16:087][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3125f30, Size=40, Default__Widget_Pause_C Function /Game/2DSideScroller/Blueprints/Robot/Widget_Pause.Widget_Pause_C:ExecuteUbergraph_Widget_Pause
+[2018.07.29-15.19.16:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2996e40, Size=16, Default__Widget_Victory_C Function /Game/2DSideScroller/Blueprints/Robot/Widget_Victory.Widget_Victory_C:ExecuteUbergraph_Widget_Victory
+[2018.07.29-15.19.16:276][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded379ead0, Size=24, Default__RobotHUD_C Function /Game/2DSideScroller/Blueprints/Robot/RobotHUD.RobotHUD_C:ExecuteUbergraph_RobotHUD
+[2018.07.29-15.19.16:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2d5aaa0, Size=88, Default__Respawn_GameMode_C Function /Game/2DSideScroller/Blueprints/Robot/Respawn_GameMode.Respawn_GameMode_C:ExecuteUbergraph_Respawn_GameMode
+[2018.07.29-15.19.17:768][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2d487c0, Size=264
+[2018.07.29-15.19.17:768][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded400e0c0, Size=264, Default__BP_Evil_C Function /Engine/Transient.REINST_BP_Evil_C_3:ExecuteUbergraph_BP_Evil
+[2018.07.29-15.19.17:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2c50560, Size=208
+[2018.07.29-15.19.17:771][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded39aae80, Size=208, Default__BP_Shot_C Function /Engine/Transient.REINST_BP_Shot_C_4:ExecuteUbergraph_BP_Shot
+[2018.07.29-15.19.17:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded379ead0, Size=24
+[2018.07.29-15.19.17:771][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3b1ca90, Size=24, Default__RobotHUD_C Function /Engine/Transient.REINST_RobotHUD_C_5:ExecuteUbergraph_RobotHUD
+[2018.07.29-15.19.17:772][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded295ec00, Size=304
+[2018.07.29-15.19.17:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded400df80, Size=304, Default__DlgWidget_C Function /Engine/Transient.REINST_DlgWidget_C_0:ExecuteUbergraph_DlgWidget
+[2018.07.29-15.19.17:773][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2d5aaa0, Size=88
+[2018.07.29-15.19.17:773][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded39c3d60, Size=88, Default__Respawn_GameMode_C Function /Engine/Transient.REINST_Respawn_GameMode_C_6:ExecuteUbergraph_Respawn_GameMode
+[2018.07.29-15.19.17:773][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded29973d0, Size=16
+[2018.07.29-15.19.17:773][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3a7da60, Size=16, Default__Widget_Death_C Function /Engine/Transient.REINST_Widget_Death_C_1:ExecuteUbergraph_Widget_Death
+[2018.07.29-15.19.17:774][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3125f30, Size=40
+[2018.07.29-15.19.17:774][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3b3e598, Size=40, Default__Widget_Pause_C Function /Engine/Transient.REINST_Widget_Pause_C_4:ExecuteUbergraph_Widget_Pause
+[2018.07.29-15.19.17:774][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2996e40, Size=16
+[2018.07.29-15.19.17:775][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3a7d980, Size=16, Default__Widget_Victory_C Function /Engine/Transient.REINST_Widget_Victory_C_5:ExecuteUbergraph_Widget_Victory
+[2018.07.29-15.19.17:778][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2c20400, Size=992
+[2018.07.29-15.19.17:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3b11c00, Size=992, Default__CH_RobotMain_C Function /Engine/Transient.REINST_CH_RobotMain_C_7:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-15.19.17:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4553d80, Size=264, Default__BP_Evil_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Evil/BP_Evil.BP_Evil_C:ExecuteUbergraph_BP_Evil
+[2018.07.29-15.19.17:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4547900, Size=208, Default__BP_Shot_C Function /Game/2DSideScroller/Blueprints/Robot/BP_Shot.BP_Shot_C:ExecuteUbergraph_BP_Shot
+[2018.07.29-15.19.17:930][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4589e58, Size=24, Default__RobotHUD_C Function /Game/2DSideScroller/Blueprints/Robot/RobotHUD.RobotHUD_C:ExecuteUbergraph_RobotHUD
+[2018.07.29-15.19.17:933][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4553c40, Size=304, Default__DlgWidget_C Function /Game/2DSideScroller/Blueprints/Robot/DlgWidget.DlgWidget_C:ExecuteUbergraph_DlgWidget
+[2018.07.29-15.19.17:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4554fa0, Size=88, Default__Respawn_GameMode_C Function /Game/2DSideScroller/Blueprints/Robot/Respawn_GameMode.Respawn_GameMode_C:ExecuteUbergraph_Respawn_GameMode
+[2018.07.29-15.19.17:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4634db0, Size=16, Default__Widget_Death_C Function /Game/2DSideScroller/Blueprints/Robot/Widget_Death.Widget_Death_C:ExecuteUbergraph_Widget_Death
+[2018.07.29-15.19.17:940][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4543a88, Size=40, Default__Widget_Pause_C Function /Game/2DSideScroller/Blueprints/Robot/Widget_Pause.Widget_Pause_C:ExecuteUbergraph_Widget_Pause
+[2018.07.29-15.19.17:941][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4634b70, Size=16, Default__Widget_Victory_C Function /Game/2DSideScroller/Blueprints/Robot/Widget_Victory.Widget_Victory_C:ExecuteUbergraph_Widget_Victory
+[2018.07.29-15.19.17:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded535fc00, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-15.19.17:994][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/DlgNeutral.DlgNeutral`
+[2018.07.29-15.19.17:994][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `9D7CA6CA4DF1065B1DB4889A3AB8403C` for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/DlgNeutral.DlgNeutral` because of new created Dialogue.
+[2018.07.29-15.19.18:071][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded456b000, Size=488, Default__BP_Neutral_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/BP_Neutral.BP_Neutral_C:ExecuteUbergraph_BP_Neutral
+[2018.07.29-15.19.18:101][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded456b000, Size=488
+[2018.07.29-15.19.18:101][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded539ea00, Size=488, Default__BP_Neutral_C Function /Engine/Transient.REINST_BP_Neutral_C_19:ExecuteUbergraph_BP_Neutral
+[2018.07.29-15.19.18:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3be1e00, Size=488, Default__BP_Neutral_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/BP_Neutral.BP_Neutral_C:ExecuteUbergraph_BP_Neutral
+[2018.07.29-15.19.18:349][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-15.19.18:350][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `FF38AA7C4B51774E76C16D9E43BD7B7D` for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist` because of new created Dialogue.
+[2018.07.29-15.19.18:391][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded46d7600, Size=624, Default__CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-15.19.18:432][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded46d7600, Size=624
+[2018.07.29-15.19.18:432][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded46d7600, Size=624, Default__CH_Scientist_C Function /Engine/Transient.REINST_CH_Scientist_C_21:ExecuteUbergraph_CH_Scientist
+[2018.07.29-15.19.18:455][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded4749080, Size=624, Default__CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-15.19.18:464][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.07.29-15.19.19:060][  0]LogEngine: Initializing Engine...
+[2018.07.29-15.19.19:125][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.29-15.19.19:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.29-15.19.19:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.29-15.19.20:396][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.29-15.19.20:498][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.19.20:617][  0]LogInit: FAudioDevice initialized.
+[2018.07.29-15.19.20:786][  0]LogDerivedDataCache: Saved boot cache 0.14s 83MB C:/Users/Karasb/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.29-15.19.20:800][  0]LogInit: Texture streaming: Enabled
+[2018.07.29-15.19.20:989][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.29-15.19.21:207][  0]LogInit: Transaction tracking system initialized
+[2018.07.29-15.19.21:652][  0]BlueprintLog: New page: Editor Load
+[2018.07.29-15.19.23:320][  0]LocalizationService: Localization service is disabled
+[2018.07.29-15.19.24:159][  0]LogConsoleResponse: Display: 
+[2018.07.29-15.19.29:810][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/Projects/Second_test 4.19/Content/' took 0.21s
+[2018.07.29-15.19.29:810][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.29-15.19.29:811][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.29-15.19.29:811][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.29-15.19.29:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.29-15.19.29:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.29-15.19.32:716][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:716][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.29-15.19.32:717][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:717][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.29-15.19.32:717][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:717][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.29-15.19.32:718][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:718][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.29-15.19.32:718][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:718][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.29-15.19.32:718][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:718][  0]LogWindows: Warning: URL: C:\Users\Karasb\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.29-15.19.32:719][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2018.07.29-15.19.32:719][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.29-15.19.32:742][  0]Cmd: MAP LOAD FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.29-15.19.32:834][  0]LightingResults: New page: Lighting Build
+[2018.07.29-15.19.32:920][  0]MapCheck: New page: Map Check
+[2018.07.29-15.19.32:920][  0]LightingResults: New page: Lighting Build
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded39aae80, Size=208
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded400e0c0, Size=264
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3b11c00, Size=992
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded400df80, Size=304
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3a7da60, Size=16
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3b3e598, Size=40
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3a7d980, Size=16
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3b1ca90, Size=24
+[2018.07.29-15.19.33:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded39c3d60, Size=88
+[2018.07.29-15.19.33:097][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded539ea00, Size=488
+[2018.07.29-15.19.33:097][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded46d7600, Size=624
+[2018.07.29-15.19.33:360][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deb971ae80, Size=392, Default__BP_BlockG_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_BlockG.BP_BlockG_C:ExecuteUbergraph_BP_BlockG
+[2018.07.29-15.19.33:379][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deb971ae80, Size=392
+[2018.07.29-15.19.33:379][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deb971ae80, Size=392, Default__BP_BlockG_C Function /Engine/Transient.REINST_BP_BlockG_C_23:ExecuteUbergraph_BP_BlockG
+[2018.07.29-15.19.33:389][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deb9718800, Size=392, Default__BP_BlockG_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_BlockG.BP_BlockG_C:ExecuteUbergraph_BP_BlockG
+[2018.07.29-15.19.33:446][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2cba780, Size=392, Default__BP_BlockV_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_BlockV.BP_BlockV_C:ExecuteUbergraph_BP_BlockV
+[2018.07.29-15.19.33:457][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2cba780, Size=392
+[2018.07.29-15.19.33:457][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2caa5c0, Size=392, Default__BP_BlockV_C Function /Engine/Transient.REINST_BP_BlockV_C_25:ExecuteUbergraph_BP_BlockV
+[2018.07.29-15.19.33:466][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2c93040, Size=392, Default__BP_BlockV_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_BlockV.BP_BlockV_C:ExecuteUbergraph_BP_BlockV
+[2018.07.29-15.19.33:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deb9bed000, Size=248, Default__BP_Ladder_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_Ladder.BP_Ladder_C:ExecuteUbergraph_BP_Ladder
+[2018.07.29-15.19.33:561][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deb9bed000, Size=248
+[2018.07.29-15.19.33:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deb9bed000, Size=248, Default__BP_Ladder_C Function /Engine/Transient.REINST_BP_Ladder_C_27:ExecuteUbergraph_BP_Ladder
+[2018.07.29-15.19.33:568][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3adba00, Size=248, Default__BP_Ladder_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_Ladder.BP_Ladder_C:ExecuteUbergraph_BP_Ladder
+[2018.07.29-15.19.33:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded5bcf100, Size=528, Default__BP_Spikes_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_Spikes.BP_Spikes_C:ExecuteUbergraph_BP_Spikes
+[2018.07.29-15.19.33:714][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded5bcf100, Size=528
+[2018.07.29-15.19.33:714][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded5bcf100, Size=528, Default__BP_Spikes_C Function /Engine/Transient.REINST_BP_Spikes_C_29:ExecuteUbergraph_BP_Spikes
+[2018.07.29-15.19.33:738][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3ba1800, Size=528, Default__BP_Spikes_C Function /Game/2DSideScroller/Blueprints/WorldMaterials/BP_Spikes.BP_Spikes_C:ExecuteUbergraph_BP_Spikes
+[2018.07.29-15.19.34:089][  0]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.19.34:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.29-15.19.34:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded5bcf100, Size=528
+[2018.07.29-15.19.34:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deb9bed000, Size=248
+[2018.07.29-15.19.34:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2caa5c0, Size=392
+[2018.07.29-15.19.34:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deb971ae80, Size=392
+[2018.07.29-15.19.34:416][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.29-15.19.34:506][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89,788ms to complete.
+[2018.07.29-15.19.34:507][  0]LogFileHelpers: Loading map 'Level_1' took 1.779
+[2018.07.29-15.19.36:129][  0]LogCollectionManager: Loaded 0 collections in 0.005304 seconds
+[2018.07.29-15.19.36:322][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/Projects/Second_test 4.19/Saved/Collections/' took 0.01s
+[2018.07.29-15.19.36:322][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/Projects/Second_test 4.19/Content/Developers/Karasb/Collections/' took 0.01s
+[2018.07.29-15.19.36:322][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/Projects/Second_test 4.19/Content/Collections/' took 0.01s
+[2018.07.29-15.19.36:322][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.29-15.19.36:364][  0]LogContentBrowser: Native class hierarchy populated in 0.0402 seconds. Added 2496 classes and 572 folders.
+[2018.07.29-15.19.36:481][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.07.29-15.19.37:783][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.07.29-15.19.37:828][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2018.07.29-15.19.38:548][  0]LogSlate: Took 0.024690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.29-15.19.38:575][  0]LogSlate: Took 0.023665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.29-15.19.38:624][  0]LogSlate: Took 0.014032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.29-15.19.39:124][  0]LogRenderer: Reallocating scene render targets to support 832x484 Format 10 NumSamples 1 (Frame:1).
+[2018.07.29-15.19.39:406][  0]LogSlate: Took 0.021776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.29-15.19.40:264][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.07.29-15.19.40:265][  0]LogLoad: (Engine Initialization) Total time: 98.01 seconds
+[2018.07.29-15.19.40:265][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.29-15.19.40:525][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.29-15.19.40:969][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.29-15.19.41:417][  2]LogAssetRegistry: Asset discovery search completed in 61.7090 seconds
+[2018.07.29-15.19.41:429][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.29-15.19.41:429][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009524 seconds (updated 0 objects)
+[2018.07.29-15.19.41:565][  3]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.29-15.20.39:840][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.20.51:374][719]LogEditorViewport: Clicking on Actor (LMB): BP_Spikes_C (BP_Spikes)
+[2018.07.29-15.20.52:676][798]Cmd: DELETE
+[2018.07.29-15.20.52:676][798]Cmd: ACTOR DELETE
+[2018.07.29-15.20.53:014][798]LogEditorActor: Deleted Actor: BP_Spikes_C
+[2018.07.29-15.20.53:071][798]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2018.07.29-15.22.29:193][994]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.22.42:101][125]LogEditorViewport: Clicking on Actor (LMB): BP_BlockV_C (BP_BlockV2)
+[2018.07.29-15.22.48:784][719]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.22.50:554][879]LogEditorViewport: Clicking on Actor (LMB): BP_BlockV_C (BP_BlockV)
+[2018.07.29-15.22.55:149][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.22.55:436][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.22.55:893][286]LogSavePackage: Save=163.57ms
+[2018.07.29-15.22.55:893][286]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_178E820C34BDD63D9260ED889DC556EB5.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.22.55:916][286]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.22.55:969][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.22.56:003][286]LogSavePackage: Save=5.16ms
+[2018.07.29-15.22.56:003][286]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData0AD594B148285B2F6AE696A3A292CF1C.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.22.56:003][286]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.22.56:446][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.22.56:503][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.22.56:606][304]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:22:56)
+[2018.07.29-15.22.56:607][304]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.22.56:646][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038711s)
+[2018.07.29-15.22.56:647][304]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.22.56:661][304]LogPlayLevel: PIE: World Init took: (0.014964s)
+[2018.07.29-15.22.56:661][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.054209s)
+[2018.07.29-15.22.56:704][304]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.22.56:720][304]LogInit: FAudioDevice initialized.
+[2018.07.29-15.22.56:767][304]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.22.56:858][304]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.22.56
+[2018.07.29-15.22.56:976][304]LogWorld: Bringing up level for play took: 0.145870
+[2018.07.29-15.22.57:078][304]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2018.07.29-15.22.57:150][304]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,717
+[2018.07.29-15.22.57:272][305]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085021 > MaxSimulationTimeStep (0.050) for 'CH_RobotMain_C_0', movement 'Walking'
+[2018.07.29-15.23.27:126][698]LogEditorViewport: Clicking on Actor (LMB): BP_Ladder_C (BP_Ladder)
+[2018.07.29-15.23.32:071][ 74]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (space-1_Sprite)
+[2018.07.29-15.23.33:232][129]LogEditorViewport: Clicking on Actor (LMB): BP_Ladder_C (BP_Ladder)
+[2018.07.29-15.23.38:534][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.23.38:666][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.23.38:771][630]LogSavePackage: Save=64.51ms
+[2018.07.29-15.23.38:771][630]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_17070AD984A8DDB3F4C161DB30A10B40D.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.23.38:774][630]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.23.38:822][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.23.38:852][630]LogSavePackage: Save=5.08ms
+[2018.07.29-15.23.38:852][630]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData93A6D92B4D4CD261F9A91DA8D4D17F5A.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.23.38:853][630]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.23.39:305][651]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.23.39:335][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.23.39:335][651]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:23:39)
+[2018.07.29-15.23.39:335][651]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.23.39:339][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004033s)
+[2018.07.29-15.23.39:340][651]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.23.39:340][651]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.07.29-15.23.39:340][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.005238s)
+[2018.07.29-15.23.39:357][651]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.23.39:372][651]LogInit: FAudioDevice initialized.
+[2018.07.29-15.23.39:422][651]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.23.39:427][651]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.23.39
+[2018.07.29-15.23.39:428][651]LogWorld: Bringing up level for play took: 0.004996
+[2018.07.29-15.23.39:437][651]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 1,005
+[2018.07.29-15.24.02:912][322]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.24.13:526][243]LogEditorViewport: Clicking on Actor (LMB): BP_BlockV_C (BP_BlockV2)
+[2018.07.29-15.24.17:143][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.24.17:297][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.24.17:408][551]LogSavePackage: Save=68.25ms
+[2018.07.29-15.24.17:408][551]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1DF4DCDD54E3B46E3823A6FA514D77D70.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.24.17:411][551]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.24.17:489][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.24.17:525][551]LogSavePackage: Save=5.96ms
+[2018.07.29-15.24.17:525][551]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData67BCA85D46B09344E76CB9905BBEC828.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.24.17:526][551]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.24.18:076][569]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.24.18:107][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.24.18:108][569]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:24:18)
+[2018.07.29-15.24.18:108][569]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.24.18:113][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005614s)
+[2018.07.29-15.24.18:114][569]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.24.18:115][569]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2018.07.29-15.24.18:115][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.006936s)
+[2018.07.29-15.24.18:138][569]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.24.18:155][569]LogInit: FAudioDevice initialized.
+[2018.07.29-15.24.18:191][569]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.24.18:193][569]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.24.18
+[2018.07.29-15.24.18:194][569]LogWorld: Bringing up level for play took: 0.002308
+[2018.07.29-15.24.18:198][569]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,235
+[2018.07.29-15.24.27:754][655]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.24.30:173][888]LogEditorViewport: Clicking on Actor (LMB): BP_BlockV_C (BP_BlockV2)
+[2018.07.29-15.24.39:084][685]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.24.52:323][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.24.52:535][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.24.52:647][794]LogSavePackage: Save=66.78ms
+[2018.07.29-15.24.52:647][794]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_14EBE4962447B5A336AFDFC88B51F747A.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.24.52:649][794]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.24.52:700][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.24.52:729][794]LogSavePackage: Save=5.33ms
+[2018.07.29-15.24.52:729][794]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData324D8F9C4E5A1A42D2B9818B57C95C6F.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.24.52:730][794]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.24.53:158][804]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.24.53:196][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.24.53:196][804]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:24:53)
+[2018.07.29-15.24.53:197][804]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.24.53:201][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004549s)
+[2018.07.29-15.24.53:202][804]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.24.53:202][804]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.07.29-15.24.53:202][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.005488s)
+[2018.07.29-15.24.53:227][804]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.24.53:243][804]LogInit: FAudioDevice initialized.
+[2018.07.29-15.24.53:281][804]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.24.53:284][804]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.24.53
+[2018.07.29-15.24.53:284][804]LogWorld: Bringing up level for play took: 0.002329
+[2018.07.29-15.24.53:288][804]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,856
+[2018.07.29-15.25.01:928][777]LogEditorViewport: Clicking on Actor (LMB): BP_Ladder_C (BP_Ladder)
+[2018.07.29-15.25.02:804][850]Cmd: EDIT COPY
+[2018.07.29-15.25.03:092][874]Cmd: EDIT PASTE
+[2018.07.29-15.25.26:829][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.25.26:980][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.25.27:098][985]LogSavePackage: Save=76.30ms
+[2018.07.29-15.25.27:098][985]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_16B70B02A4C67422BC434508767AE09EC.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.25.27:101][985]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.25.27:150][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.25.27:180][985]LogSavePackage: Save=4.80ms
+[2018.07.29-15.25.27:180][985]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData525B62B648A0AE2E5085B68F5742CD6C.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.25.27:180][985]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.25.27:609][994]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.25.27:641][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.25.27:641][994]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:25:27)
+[2018.07.29-15.25.27:641][994]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.25.27:649][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007380s)
+[2018.07.29-15.25.27:649][994]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.25.27:650][994]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.07.29-15.25.27:650][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008493s)
+[2018.07.29-15.25.27:686][994]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.25.27:701][994]LogInit: FAudioDevice initialized.
+[2018.07.29-15.25.27:738][994]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.25.27:741][994]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.25.27
+[2018.07.29-15.25.27:742][994]LogWorld: Bringing up level for play took: 0.003001
+[2018.07.29-15.25.27:745][994]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,687
+[2018.07.29-15.25.52:835][763]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (block_06_Sprite)
+[2018.07.29-15.26.12:672][558]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.26.20:804][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.26.21:012][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.26.21:129][361]LogSavePackage: Save=77.37ms
+[2018.07.29-15.26.21:129][361]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_172DD20CA4AA8A1E63C2751A0D4E4C5A7.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.26.21:132][361]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.26.21:180][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.26.21:209][361]LogSavePackage: Save=4.95ms
+[2018.07.29-15.26.21:209][361]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData959D536145729773EAC16386D3BC3226.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.26.21:210][361]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.26.21:748][371]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.26.21:780][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.26.21:780][371]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:26:21)
+[2018.07.29-15.26.21:780][371]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.26.21:788][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007363s)
+[2018.07.29-15.26.21:788][371]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.26.21:788][371]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.07.29-15.26.21:789][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008294s)
+[2018.07.29-15.26.21:811][371]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.26.21:830][371]LogInit: FAudioDevice initialized.
+[2018.07.29-15.26.21:865][371]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.26.21:870][371]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.26.21
+[2018.07.29-15.26.21:871][371]LogWorld: Bringing up level for play took: 0.005254
+[2018.07.29-15.26.21:878][371]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,555
+[2018.07.29-15.27.46:100][  7]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-15.27.51:863][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-15.27.52:021][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-15.27.52:171][377]LogSavePackage: Save=106.40ms
+[2018.07.29-15.27.52:172][377]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_152F1C9044B797B3E0A99EB892793A37D.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-15.27.52:174][377]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-15.27.52:222][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-15.27.52:251][377]LogSavePackage: Save=4.98ms
+[2018.07.29-15.27.52:251][377]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData7B0DAEEA4CAF4EC7ABB259B2608FC786.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-15.27.52:252][377]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-15.27.52:637][384]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-15.27.52:670][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-15.27.52:671][384]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 21:27:52)
+[2018.07.29-15.27.52:671][384]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-15.27.52:679][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008309s)
+[2018.07.29-15.27.52:680][384]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-15.27.52:680][384]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.07.29-15.27.52:680][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.009336s)
+[2018.07.29-15.27.52:701][384]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-15.27.52:718][384]LogInit: FAudioDevice initialized.
+[2018.07.29-15.27.52:754][384]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-15.27.52:757][384]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-18.27.52
+[2018.07.29-15.27.52:758][384]LogWorld: Bringing up level for play took: 0.003216
+[2018.07.29-15.27.52:762][384]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,329
+[2018.07.29-15.34.56:967][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.04.50:728][935]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.04.50:774][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.04.50:774][935]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:04:50)
+[2018.07.29-16.04.50:774][935]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.04.50:788][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013096s)
+[2018.07.29-16.04.50:789][935]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.04.50:789][935]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2018.07.29-16.04.50:789][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.015015s)
+[2018.07.29-16.04.50:821][935]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.04.50:838][935]LogInit: FAudioDevice initialized.
+[2018.07.29-16.04.50:870][935]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.04.50:874][935]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.04.50
+[2018.07.29-16.04.50:875][935]LogWorld: Bringing up level for play took: 0.004119
+[2018.07.29-16.04.50:880][935]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,447
+[2018.07.29-16.10.13:827][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.10.15:841][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.10.23:337][681]Cmd: DELETE
+[2018.07.29-16.10.23:337][681]Cmd: ACTOR DELETE
+[2018.07.29-16.10.23:341][681]LogEditorActor: Deleted Actor: BP_BlockV_C
+[2018.07.29-16.10.23:411][681]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.07.29-16.10.23:713][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.10.36:783][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.10.42:137][ 94]LogEditorViewport: Clicking on Actor (LMB): BP_BlockG_C (BP_BlockG)
+[2018.07.29-16.10.51:627][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.10.51:744][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-16.10.51:937][827]LogSavePackage: Save=109.54ms
+[2018.07.29-16.10.51:938][827]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_194731A9748641C52A0E76C8439F495F6.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-16.10.51:940][827]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-16.10.51:989][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-16.10.52:038][827]LogSavePackage: Save=19.43ms
+[2018.07.29-16.10.52:038][827]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltDataAB482996484C2EB768324698C53CB011.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-16.10.52:039][827]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-16.10.52:485][847]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.10.52:519][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.10.52:519][847]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:10:52)
+[2018.07.29-16.10.52:520][847]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.10.52:527][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007210s)
+[2018.07.29-16.10.52:527][847]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.10.52:528][847]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.07.29-16.10.52:528][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008204s)
+[2018.07.29-16.10.52:554][847]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.10.52:568][847]LogInit: FAudioDevice initialized.
+[2018.07.29-16.10.52:603][847]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.10.52:607][847]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.10.52
+[2018.07.29-16.10.52:608][847]LogWorld: Bringing up level for play took: 0.003992
+[2018.07.29-16.10.52:612][847]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,18
+[2018.07.29-16.10.56:224][193]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (block_06_Sprite)
+[2018.07.29-16.11.01:627][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.11.01:754][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-16.11.01:902][639]LogSavePackage: Save=109.59ms
+[2018.07.29-16.11.01:902][639]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1B0278E1744FAFB1594AFDF9A857123D9.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-16.11.01:904][639]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-16.11.01:955][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-16.11.01:985][639]LogSavePackage: Save=5.11ms
+[2018.07.29-16.11.01:985][639]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData0B59DA044D76814D1485B9A2975624C1.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-16.11.01:986][639]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-16.11.02:326][660]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.11.02:357][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.11.02:357][660]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:11:02)
+[2018.07.29-16.11.02:357][660]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.11.02:364][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006719s)
+[2018.07.29-16.11.02:365][660]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.11.02:365][660]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2018.07.29-16.11.02:365][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.007644s)
+[2018.07.29-16.11.02:382][660]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.11.02:397][660]LogInit: FAudioDevice initialized.
+[2018.07.29-16.11.02:428][660]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.11.02:433][660]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.11.02
+[2018.07.29-16.11.02:434][660]LogWorld: Bringing up level for play took: 0.005370
+[2018.07.29-16.11.02:440][660]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,007
+[2018.07.29-16.14.06:126][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.14.14:078][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee72e89a8, Size=4, Default__SKEL_CH_Scientist_2_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist_2.SKEL_CH_Scientist_2_C:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.14:116][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee72e89a8, Size=4
+[2018.07.29-16.14.14:116][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee72e89a8, Size=4, Default__SKEL_CH_Scientist_2_C Function /Engine/Transient.REINST_SKEL_CH_Scientist_2_C_32:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.14:130][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee72e9550, Size=4, Default__SKEL_CH_Scientist_2_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist_2.SKEL_CH_Scientist_2_C:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.14:163][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee8742e80, Size=624, Default__CH_Scientist_2_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist_2.CH_Scientist_2_C:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.14:248][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee72e9550, Size=4
+[2018.07.29-16.14.14:249][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df27e43688, Size=4, Default__SKEL_CH_Scientist_2_C Function /Engine/Transient.REINST_SKEL_CH_Scientist_2_C_35:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.14:304][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee8742e80, Size=624
+[2018.07.29-16.14.14:304][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee8742e80, Size=624, Default__CH_Scientist_2_C Function /Engine/Transient.REINST_CH_Scientist_2_C_37:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.14:339][164]LogUObjectGlobals: Created PersistentFrame Addr=0x000001def7dd1d00, Size=624, Default__CH_Scientist_2_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist_2.CH_Scientist_2_C:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.30:800][618]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.29-16.14.30:800][618]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.29-16.14.36:208][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001def7dd1d00, Size=624
+[2018.07.29-16.14.36:208][218]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defda11800, Size=624, Default__CH_Military_C Function /Engine/Transient.REINST_CH_Military_C_41:ExecuteUbergraph_CH_Scientist_2
+[2018.07.29-16.14.36:236][218]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deb768a200, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.14.36:256][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee8742e80, Size=624
+[2018.07.29-16.14.36:256][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df27e43688, Size=4
+[2018.07.29-16.14.36:256][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee72e89a8, Size=4
+[2018.07.29-16.14.36:258][218]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.SKEL_CH_Military_C' ref from Metadata '/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist_2.PackageMetaData'
+[2018.07.29-16.14.36:258][218]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C' ref from Metadata '/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist_2.PackageMetaData'
+[2018.07.29-16.14.36:478][218]LogSavePackage: Save=174.90ms
+[2018.07.29-16.14.36:478][218]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_Military16917EB04238A57E8577DF84C3AE01BF.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset'
+[2018.07.29-16.14.36:481][218]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset
+[2018.07.29-16.14.36:566][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001defda11800, Size=624
+[2018.07.29-16.14.38:687][308]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 116 classes and 0 folders.
+[2018.07.29-16.14.39:377][308]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df3066c130, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.29-16.14.39:379][308]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df3066c128, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.29-16.14.40:928][308]LogSlate: Took 0.016729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.29-16.14.50:477][735]BlueprintLog: New page: Compile CH_Military
+[2018.07.29-16.14.50:591][735]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deb768a200, Size=624
+[2018.07.29-16.14.50:591][735]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df364cec00, Size=624, Default__CH_Military_C Function /Engine/Transient.REINST_CH_Military_C_57:ExecuteUbergraph_CH_Military
+[2018.07.29-16.14.50:614][735]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df3712b380, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.14.57:090][969]LogSlate: Window 'Save Asset As' being destroyed
+[2018.07.29-16.15.08:717][564]LogSlate: Took 0.013733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.29-16.15.11:317][717]LogSlate: Window 'CH_Military*' being destroyed
+[2018.07.29-16.15.34:570][130]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.15.34:574][130]LogDlgSystem: Verbose: Creating new DlgGuid = `AD3DAE4C4D9AE193F7AFC4B932E4981E` for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` because of new created Dialogue.
+[2018.07.29-16.15.36:237][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-16.15.36:449][288]LogSavePackage: Save=117.92ms
+[2018.07.29-16.15.36:449][288]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1F31E7CF44310140D026008B3E81C2EA1.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-16.15.36:450][288]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-16.15.36:501][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-16.15.36:532][288]LogSavePackage: Save=5.60ms
+[2018.07.29-16.15.36:532][288]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData87FB783447A1EC46DFF2E79D67A31161.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-16.15.36:533][288]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-16.15.37:275][336]LogDlgSystemEditor: Clicked a Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.15.37:292][336]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.15.43:975][936]BlueprintLog: New page: Compile CH_Military
+[2018.07.29-16.15.44:083][936]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df3712b380, Size=624
+[2018.07.29-16.15.44:083][936]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df381de700, Size=624, CH_Military_C_17 Function /Engine/Transient.REINST_CH_Military_C_61:ExecuteUbergraph_CH_Military
+[2018.07.29-16.15.44:104][936]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df38368680, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.03:738][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df31868320, Size=4, Default__SKEL_CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.SKEL_CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.08:025][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df31868320, Size=4
+[2018.07.29-16.16.08:025][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df31868320, Size=4, Default__SKEL_CH_Military_C Function /Engine/Transient.REINST_SKEL_CH_Military_C_65:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.08:036][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df3186add8, Size=4, Default__SKEL_CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.SKEL_CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.14:809][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df3186add8, Size=4
+[2018.07.29-16.16.14:810][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df2bc33ba8, Size=4, Default__SKEL_CH_Military_C Function /Engine/Transient.REINST_SKEL_CH_Military_C_67:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.14:822][625]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df2bc31af0, Size=4, Default__SKEL_CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.SKEL_CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.20:105][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df2bc31af0, Size=4
+[2018.07.29-16.16.20:105][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df31869d00, Size=4, Default__SKEL_CH_Military_C Function /Engine/Transient.REINST_SKEL_CH_Military_C_69:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.20:117][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df31868940, Size=4, Default__SKEL_CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.SKEL_CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.22:136][167]BlueprintLog: New page: Compile CH_Military
+[2018.07.29-16.16.22:189][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df31868940, Size=4
+[2018.07.29-16.16.22:189][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df34ee3948, Size=4, Default__SKEL_CH_Military_C Function /Engine/Transient.REINST_SKEL_CH_Military_C_71:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.22:244][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df38368680, Size=624
+[2018.07.29-16.16.22:244][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df345c6700, Size=624, CH_Military_C_30 Function /Engine/Transient.REINST_CH_Military_C_73:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.22:268][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df39410680, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.22:512][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df34ee3948, Size=4
+[2018.07.29-16.16.37:049][446]BlueprintLog: New page: Compile CH_Military
+[2018.07.29-16.16.37:162][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df39410680, Size=624
+[2018.07.29-16.16.37:162][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df38333100, Size=624, CH_Military_C_35 Function /Engine/Transient.REINST_CH_Military_C_77:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.37:183][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df345c7600, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.16.37:416][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df345c6700, Size=624
+[2018.07.29-16.16.42:046][781]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.16.46:016][108]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.16.46:017][108]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.16.46:036][108]LogDlgSystem: Exporting data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` TO file = `../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.dlg`
+[2018.07.29-16.16.46:051][108]LogSavePackage: Save=35.77ms
+[2018.07.29-16.16.46:051][108]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/DlgMilitary8A540E164760D83F5D3AA9894D41112C.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset'
+[2018.07.29-16.16.46:054][108]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset
+[2018.07.29-16.16.47:544][209]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.16.47:581][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.16.47:581][209]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:16:47)
+[2018.07.29-16.16.47:581][209]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.16.47:587][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006593s)
+[2018.07.29-16.16.47:588][209]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.16.47:588][209]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.07.29-16.16.47:588][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.007643s)
+[2018.07.29-16.16.47:610][209]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df38333100, Size=624
+[2018.07.29-16.16.47:616][209]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.16.47:631][209]LogInit: FAudioDevice initialized.
+[2018.07.29-16.16.47:684][209]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.16.47:689][209]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.16.47
+[2018.07.29-16.16.47:690][209]LogWorld: Bringing up level for play took: 0.004915
+[2018.07.29-16.16.47:698][209]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,734
+[2018.07.29-16.16.47:769][209]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.29-16.16.48:917][246]LogSlate: Window 'Second_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.29-16.17.13:401][556]LogTexture: Display: Building textures: starbound_custom_character___robo_cop_by_gabeexists-da2ussw (BGRA8, 804X993)
+[2018.07.29-16.17.20:227][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-16.17.20:411][ 15]LogSavePackage: Save=132.35ms
+[2018.07.29-16.17.20:411][ 15]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_18889661E43AF7CB8D6E4EAA45BEB6FA4.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-16.17.20:412][ 15]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-16.17.20:467][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-16.17.20:503][ 15]LogSavePackage: Save=5.29ms
+[2018.07.29-16.17.20:503][ 15]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData5BF42FDB4E5EB5734022799E1CA44518.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-16.17.20:504][ 15]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-16.17.39:978][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.17.40:101][423]BlueprintLog: New page: Compile CH_Military
+[2018.07.29-16.17.40:212][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df345c7600, Size=624
+[2018.07.29-16.17.40:212][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defe4c3880, Size=624, CH_Military_C_50 Function /Engine/Transient.REINST_CH_Military_C_81:ExecuteUbergraph_CH_Military
+[2018.07.29-16.17.40:232][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de80570680, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.17.40:498][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df31869d00, Size=4
+[2018.07.29-16.17.40:498][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df2bc33ba8, Size=4
+[2018.07.29-16.17.40:498][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df31868320, Size=4
+[2018.07.29-16.17.40:499][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df381de700, Size=624
+[2018.07.29-16.17.41:401][477]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.17.41:434][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.17.41:434][477]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:17:41)
+[2018.07.29-16.17.41:434][477]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.17.41:443][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008835s)
+[2018.07.29-16.17.41:443][477]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.17.41:444][477]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.07.29-16.17.41:444][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.009916s)
+[2018.07.29-16.17.41:471][477]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.17.41:487][477]LogInit: FAudioDevice initialized.
+[2018.07.29-16.17.41:524][477]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.17.41:529][477]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.17.41
+[2018.07.29-16.17.41:530][477]LogWorld: Bringing up level for play took: 0.005403
+[2018.07.29-16.17.41:535][477]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 1,102
+[2018.07.29-16.17.43:521][570]LogSlate: Window 'Second_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.29-16.17.48:578][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.17.55:142][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.18.00:853][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.18.01:010][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-16.18.01:178][850]LogSavePackage: Save=117.57ms
+[2018.07.29-16.18.01:178][850]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_100C6426544E0C07EF5B81682ABF9F40C.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-16.18.01:181][850]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-16.18.01:232][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-16.18.01:261][850]LogSavePackage: Save=4.99ms
+[2018.07.29-16.18.01:262][850]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltDataAF1C6D4242861110092420AF000E6B74.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-16.18.01:262][850]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-16.18.01:690][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.18.01:727][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.18.01:727][873]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:18:01)
+[2018.07.29-16.18.01:727][873]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.18.01:734][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007236s)
+[2018.07.29-16.18.01:735][873]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.18.01:735][873]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.07.29-16.18.01:735][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008186s)
+[2018.07.29-16.18.01:757][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001defe4c3880, Size=624
+[2018.07.29-16.18.01:761][873]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.18.01:776][873]LogInit: FAudioDevice initialized.
+[2018.07.29-16.18.01:807][873]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.18.01:811][873]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.18.01
+[2018.07.29-16.18.01:812][873]LogWorld: Bringing up level for play took: 0.004276
+[2018.07.29-16.18.01:816][873]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,617
+[2018.07.29-16.18.08:176][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.18.09:633][583]LogSavePackage: Save=149.80ms
+[2018.07.29-16.18.09:633][583]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_MilitaryBE4457554E3175F8D0537DB0689CA99D.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset'
+[2018.07.29-16.18.09:635][583]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset
+[2018.07.29-16.18.28:931][923]BlueprintLog: New page: Compile CH_Military
+[2018.07.29-16.18.29:042][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de80570680, Size=624
+[2018.07.29-16.18.29:043][923]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df28904680, Size=624, CH_Military_C_59 Function /Engine/Transient.REINST_CH_Military_C_85:ExecuteUbergraph_CH_Military
+[2018.07.29-16.18.29:065][923]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deff17a200, Size=624, Default__CH_Military_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C:ExecuteUbergraph_CH_Military
+[2018.07.29-16.18.30:055][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.18.30:092][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.18.30:092][965]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:18:30)
+[2018.07.29-16.18.30:092][965]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.18.30:099][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006911s)
+[2018.07.29-16.18.30:100][965]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.18.30:100][965]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.07.29-16.18.30:100][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.007873s)
+[2018.07.29-16.18.30:123][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df28904680, Size=624
+[2018.07.29-16.18.30:127][965]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.18.30:141][965]LogInit: FAudioDevice initialized.
+[2018.07.29-16.18.30:187][965]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.18.30:192][965]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.18.30
+[2018.07.29-16.18.30:193][965]LogWorld: Bringing up level for play took: 0.005033
+[2018.07.29-16.18.30:198][965]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,235
+[2018.07.29-16.18.39:983][479]LogDlgSystem: Error: Failed to start dialogue - Invalid dialogue! (Either nullptr or a dialogue without any participants)
+[2018.07.29-16.18.41:525][545]LogSlate: Window 'Second_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.29-16.18.43:705][739]LogSavePackage: Save=144.33ms
+[2018.07.29-16.18.43:705][739]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_Military617AB4614FDD403B5061D1A991CCB840.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset'
+[2018.07.29-16.18.43:708][739]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset
+[2018.07.29-16.19.07:118][589]LogSavePackage: Save=142.06ms
+[2018.07.29-16.19.07:118][589]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_Military51919E6D40CD7A7A1CD96FA626F0A450.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset'
+[2018.07.29-16.19.07:119][589]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.uasset
+[2018.07.29-16.19.11:056][874]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.19.13:586][999]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.19.20:594][391]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.19.21:711][481]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.19.21:716][481]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.19.21:716][481]LogDlgSystem: Exporting data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` TO file = `../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.dlg`
+[2018.07.29-16.19.21:731][481]LogSavePackage: Save=20.12ms
+[2018.07.29-16.19.21:731][481]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/DlgMilitaryE1FC471E49F78CBF622570BE49665F67.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset'
+[2018.07.29-16.19.21:733][481]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset
+[2018.07.29-16.19.27:132][863]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.19.27:137][863]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.19.27:137][863]LogDlgSystem: Exporting data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` TO file = `../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.dlg`
+[2018.07.29-16.19.27:156][863]LogSavePackage: Save=24.00ms
+[2018.07.29-16.19.27:156][863]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/DlgMilitaryFA91DF5E473231AD333B54BAD6F83BA0.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset'
+[2018.07.29-16.19.27:159][863]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset
+[2018.07.29-16.19.29:212][986]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.19.29:244][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.19.29:245][986]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:19:29)
+[2018.07.29-16.19.29:245][986]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.19.29:253][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007952s)
+[2018.07.29-16.19.29:254][986]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.19.29:254][986]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.07.29-16.19.29:254][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.009289s)
+[2018.07.29-16.19.29:279][986]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.19.29:294][986]LogInit: FAudioDevice initialized.
+[2018.07.29-16.19.29:330][986]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.19.29:333][986]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.19.29
+[2018.07.29-16.19.29:334][986]LogWorld: Bringing up level for play took: 0.004060
+[2018.07.29-16.19.29:338][986]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,905
+[2018.07.29-16.19.30:888][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.19.34:179][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.19.48:248][903]LogDlgSystem: Error: Failed to start dialogue - Invalid dialogue! (Either nullptr or a dialogue without any participants)
+[2018.07.29-16.19.51:711][263]LogDlgSystem: Error: Failed to start dialogue - Invalid dialogue! (Either nullptr or a dialogue without any participants)
+[2018.07.29-16.19.53:855][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.20.29:651][613]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.20.31:960][887]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.20.34:420][ 18]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.20.42:814][754]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.20.43:465][816]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` (Graph data -> Dialogue data)`
+[2018.07.29-16.20.43:470][816]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary`
+[2018.07.29-16.20.43:470][816]LogDlgSystem: Exporting data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.DlgMilitary` TO file = `../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.dlg`
+[2018.07.29-16.20.43:484][816]LogSavePackage: Save=19.58ms
+[2018.07.29-16.20.43:484][816]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/DlgMilitary8B76EDBF477369268444A0AD5598D382.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset'
+[2018.07.29-16.20.43:486][816]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgMilitary.uasset
+[2018.07.29-16.20.46:359][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.20.46:389][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.20.46:390][ 82]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:20:46)
+[2018.07.29-16.20.46:390][ 82]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.20.46:397][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006829s)
+[2018.07.29-16.20.46:397][ 82]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.20.46:398][ 82]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.07.29-16.20.46:398][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.007941s)
+[2018.07.29-16.20.46:425][ 82]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.20.46:440][ 82]LogInit: FAudioDevice initialized.
+[2018.07.29-16.20.46:477][ 82]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.20.46:481][ 82]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.20.46
+[2018.07.29-16.20.46:482][ 82]LogWorld: Bringing up level for play took: 0.003997
+[2018.07.29-16.20.46:486][ 82]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,053
+[2018.07.29-16.20.50:999][531]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.20.53:662][800]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.20.56:102][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.20.56:715][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.20.56:749][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.20.56:749][ 65]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:20:56)
+[2018.07.29-16.20.56:749][ 65]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.20.56:758][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008992s)
+[2018.07.29-16.20.56:759][ 65]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.20.56:759][ 65]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2018.07.29-16.20.56:759][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.010019s)
+[2018.07.29-16.20.56:785][ 65]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.20.56:800][ 65]LogInit: FAudioDevice initialized.
+[2018.07.29-16.20.56:837][ 65]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.20.56:840][ 65]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.20.56
+[2018.07.29-16.20.56:841][ 65]LogWorld: Bringing up level for play took: 0.003819
+[2018.07.29-16.20.56:845][ 65]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,413
+[2018.07.29-16.20.58:776][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.21.01:179][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.21.04:003][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.21.14:045][761]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.21.21:811][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.22.48:243][ 42]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.22.48:612][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded535fc00, Size=992
+[2018.07.29-16.22.48:612][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df555e2000, Size=992, Default__CH_RobotMain_C Function /Engine/Transient.REINST_CH_RobotMain_C_106:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.22.48:668][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df555e1c00, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.22.52:445][367]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5ad76500, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.02:036][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5ad76500, Size=4
+[2018.07.29-16.23.02:036][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2cb3ec8, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_110:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.02:059][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded2cb0870, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.12:344][326]LogSlate: Took 0.017991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.29-16.23.15:941][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2cb0870, Size=4
+[2018.07.29-16.23.15:941][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df52dc0910, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_112:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.15:966][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df52dc2250, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.18:112][774]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.23.18:251][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df52dc2250, Size=4
+[2018.07.29-16.23.18:251][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df52dc2250, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_120:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.18:422][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df555e1c00, Size=992
+[2018.07.29-16.23.18:422][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5766f000, Size=992, CH_RobotMain_C_26 Function /Engine/Transient.REINST_CH_RobotMain_C_133:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.18:472][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3b62000, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.18:733][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df52dc2250, Size=4
+[2018.07.29-16.23.21:948][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df52dc30e8, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.24:076][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df52dc30e8, Size=4
+[2018.07.29-16.23.24:076][142]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df27e435d8, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_137:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.24:099][142]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df34ee38e0, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.25:327][237]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.23.25:473][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df34ee38e0, Size=4
+[2018.07.29-16.23.25:473][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df3066c150, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_145:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.25:647][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3b62000, Size=992
+[2018.07.29-16.23.25:647][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5d20a400, Size=992, CH_RobotMain_C_47 Function /Engine/Transient.REINST_CH_RobotMain_C_158:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.25:695][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5d209c00, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.23.25:705][237]LogClass: Warning: Type mismatch in IsMeetSomeone of CH_RobotMain_C - Previous (NameProperty) Current(MapProperty) for package:  FObjectReader
+[2018.07.29-16.23.25:961][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5766f000, Size=992
+[2018.07.29-16.23.25:961][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df3066c150, Size=4
+[2018.07.29-16.25.58:268][858]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.25.58:632][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5d209c00, Size=992
+[2018.07.29-16.25.58:632][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5761d400, Size=992, CH_RobotMain_C_78 Function /Engine/Transient.REINST_CH_RobotMain_C_179:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.25.58:691][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5761e800, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.25.58:985][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5d20a400, Size=992
+[2018.07.29-16.26.07:867][684]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.26.08:177][684]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5761e800, Size=992
+[2018.07.29-16.26.08:177][684]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df57991000, Size=992, CH_RobotMain_C_109 Function /Engine/Transient.REINST_CH_RobotMain_C_200:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.26.08:226][684]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5761c800, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.29.12:275][187]LogSavePackage: Save=170.42ms
+[2018.07.29-16.29.12:275][187]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_Auto14D37F4BD48A31BC5C76D1592A6C15CFE.tmp' to '../../../../Projects/Second_test 4.19/Saved/Autosaves/Game/2DSideScroller/Maps/Level_1_Auto1.umap'
+[2018.07.29-16.29.12:276][187]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Saved/Autosaves/Game/2DSideScroller/Maps/Level_1_Auto1.umap
+[2018.07.29-16.29.12:278][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScroller/Maps/Level_1' took 0.337
+[2018.07.29-16.29.12:278][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.337
+[2018.07.29-16.29.12:319][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain] ([1] browsable assets)...
+[2018.07.29-16.29.12:319][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain]
+[2018.07.29-16.29.12:721][187]LogSavePackage: Save=361.75ms
+[2018.07.29-16.29.12:721][187]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_RobotMain_Auto1CBE6DC6B4E99383CBFC6CCA0554B8BF7.tmp' to '../../../../Projects/Second_test 4.19/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain_Auto1.uasset'
+[2018.07.29-16.29.12:760][187]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain_Auto1.uasset
+[2018.07.29-16.29.12:771][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/NeutralCharacters/starbound_custom_character___robo_cop_by_gabeexists-da] ([1] browsable assets)...
+[2018.07.29-16.29.12:807][187]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/NeutralCharacters/starbound_custom_character___robo_cop_by_gabeexists-da.starbound_custom_character___robo_cop_by_gabeexists-da]
+[2018.07.29-16.29.12:807][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/NeutralCharacters/starbound_custom_character___robo_cop_by_gabeexists-da]
+[2018.07.29-16.29.12:830][187]LogSavePackage: Save=19.67ms
+[2018.07.29-16.29.12:830][187]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/starbound_custom_character___rob63F225E5456DAF5A74FCC0B4B97D9EDB.tmp' to '../../../../Projects/Second_test 4.19/Saved/Autosaves/Game/2DSideScroller/Sprites/NeutralCharacters/starbound_custom_character___robo_cop_by_gabeexists-da_Auto1.uasset'
+[2018.07.29-16.29.12:842][187]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Saved/Autosaves/Game/2DSideScroller/Sprites/NeutralCharacters/starbound_custom_character___robo_cop_by_gabeexists-da_Auto1.uasset
+[2018.07.29-16.29.12:842][187]LogFileHelpers: Auto-saving content packages took 0.540
+[2018.07.29-16.34.47:717][715]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.34.48:018][715]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5761c800, Size=992
+[2018.07.29-16.34.48:019][715]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5cd92c00, Size=992, CH_RobotMain_C_120 Function /Engine/Transient.REINST_CH_RobotMain_C_221:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.34.48:066][715]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5761f400, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.34.49:409][792]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.34.49:441][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.34.49:441][792]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:34:49)
+[2018.07.29-16.34.49:441][792]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.34.49:449][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007237s)
+[2018.07.29-16.34.49:449][792]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.34.49:449][792]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.07.29-16.34.49:450][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008276s)
+[2018.07.29-16.34.49:475][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5cd92c00, Size=992
+[2018.07.29-16.34.49:483][792]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.34.49:498][792]LogInit: FAudioDevice initialized.
+[2018.07.29-16.34.49:543][792]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.34.49:548][792]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.34.49
+[2018.07.29-16.34.49:549][792]LogWorld: Bringing up level for play took: 0.004993
+[2018.07.29-16.34.49:556][792]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 -0,877
+[2018.07.29-16.34.52:024][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.34.56:431][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.35.00:239][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.35.03:949][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.35.05:400][392]LogSlate: Window 'Second_test Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.29-16.35.55:058][274]LogDlgSystemEditor: Clicked a Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.35.55:058][274]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist` (Graph data -> Dialogue data)`
+[2018.07.29-16.36.10:380][622]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.36.16:158][ 24]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.36.20:852][350]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.36.26:860][749]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.36.28:686][846]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.37.23:163][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.37.23:196][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.37.23:196][457]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:37:23)
+[2018.07.29-16.37.23:196][457]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.37.23:203][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007194s)
+[2018.07.29-16.37.23:204][457]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.37.23:204][457]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.07.29-16.37.23:204][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008241s)
+[2018.07.29-16.37.23:234][457]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.37.23:249][457]LogInit: FAudioDevice initialized.
+[2018.07.29-16.37.23:283][457]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.37.23:287][457]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.37.23
+[2018.07.29-16.37.23:288][457]LogWorld: Bringing up level for play took: 0.003862
+[2018.07.29-16.37.23:292][457]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,859
+[2018.07.29-16.37.24:113][532]LogDlgSystemReflectionHelper: Warning: Failed to get BoolProperty None from CH_RobotMain_C_0 - property not found!
+[2018.07.29-16.37.24:113][532]LogDlgSystemReflectionHelper: Warning: Failed to get BoolProperty None from CH_RobotMain_C_0 - property not found!
+[2018.07.29-16.37.25:022][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.37.27:855][899]LogDlgSystemReflectionHelper: Warning: Failed to get BoolProperty None from CH_RobotMain_C_0 - property not found!
+[2018.07.29-16.37.27:855][899]LogDlgSystemReflectionHelper: Warning: Failed to get BoolProperty None from CH_RobotMain_C_0 - property not found!
+[2018.07.29-16.37.28:543][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.37.30:371][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.38.44:919][219]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.38.45:230][219]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5761f400, Size=992
+[2018.07.29-16.38.45:230][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df59369400, Size=992, CH_RobotMain_C_131 Function /Engine/Transient.REINST_CH_RobotMain_C_242:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.38.45:280][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5b097c00, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.38.58:265][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/Robot/CH_RobotMain.uasset" SILENT=true
+[2018.07.29-16.38.58:652][111]LogSavePackage: Save=340.61ms
+[2018.07.29-16.38.58:652][111]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_RobotMainDEC5B40E489FF236271A16AD74458C1B.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/Robot/CH_RobotMain.uasset'
+[2018.07.29-16.38.58:660][111]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/Robot/CH_RobotMain.uasset
+[2018.07.29-16.39.22:428][135]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.39.22:744][135]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5b097c00, Size=992
+[2018.07.29-16.39.22:744][135]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df559a9c00, Size=992, CH_RobotMain_C_142 Function /Engine/Transient.REINST_CH_RobotMain_C_263:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.22:791][135]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df559ab000, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.23:053][135]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df59369400, Size=992
+[2018.07.29-16.39.33:921][ 47]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.39.34:231][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df559ab000, Size=992
+[2018.07.29-16.39.34:231][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5fdb9c00, Size=992, CH_RobotMain_C_153 Function /Engine/Transient.REINST_CH_RobotMain_C_284:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.34:279][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5fdb8800, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.34:546][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df559a9c00, Size=992
+[2018.07.29-16.39.39:883][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5a5dc700, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.41:764][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5a5dc700, Size=4
+[2018.07.29-16.39.41:764][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5a5dc700, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_288:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.41:790][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df59a40a48, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.41:815][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df59a40a48, Size=4
+[2018.07.29-16.39.41:815][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df59a40a48, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_290:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.41:837][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df59a43cd8, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.43:617][674]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df59a43cd8, Size=4
+[2018.07.29-16.39.43:617][674]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5a5ddae8, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_292:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.43:644][674]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5c0c6440, Size=4, Default__SKEL_CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.SKEL_CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.45:052][757]BlueprintLog: New page: Compile CH_RobotMain
+[2018.07.29-16.39.45:191][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5c0c6440, Size=4
+[2018.07.29-16.39.45:191][757]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5c0c6440, Size=4, Default__SKEL_CH_RobotMain_C Function /Engine/Transient.REINST_SKEL_CH_RobotMain_C_300:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.45:358][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5fdb8800, Size=992
+[2018.07.29-16.39.45:358][757]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5fbc4400, Size=992, CH_RobotMain_C_184 Function /Engine/Transient.REINST_CH_RobotMain_C_313:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.45:409][757]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5e8f1800, Size=992, Default__CH_RobotMain_C Function /Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C:ExecuteUbergraph_CH_RobotMain
+[2018.07.29-16.39.45:696][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df59a40a48, Size=4
+[2018.07.29-16.39.45:697][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5fdb9c00, Size=992
+[2018.07.29-16.39.45:697][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5a5ddae8, Size=4
+[2018.07.29-16.39.45:697][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5c0c6440, Size=4
+[2018.07.29-16.39.59:211][ 69]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df4fa3a360, Size=4, Default__SKEL_CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.SKEL_CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.40.05:001][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df4fa3a360, Size=4
+[2018.07.29-16.40.05:001][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3a505d8, Size=4, Default__SKEL_CH_Scientist_C Function /Engine/Transient.REINST_SKEL_CH_Scientist_C_317:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.40.05:013][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ded3a51270, Size=4, Default__SKEL_CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.SKEL_CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.40.06:441][851]BlueprintLog: New page: Compile CH_Scientist
+[2018.07.29-16.40.06:492][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3a51270, Size=4
+[2018.07.29-16.40.06:492][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df4fa38d80, Size=4, Default__SKEL_CH_Scientist_C Function /Engine/Transient.REINST_SKEL_CH_Scientist_C_319:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.40.06:544][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded4749080, Size=624
+[2018.07.29-16.40.06:544][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df51956980, Size=624, Default__CH_Scientist_C Function /Engine/Transient.REINST_CH_Scientist_C_321:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.40.06:564][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df55b6cb80, Size=624, Default__CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.40.06:933][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5fbc4400, Size=992
+[2018.07.29-16.40.06:933][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df4fa38d80, Size=4
+[2018.07.29-16.41.15:853][610]LogSavePackage: Save=158.92ms
+[2018.07.29-16.41.15:853][610]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_Scientist2FFB90A4423EE6F06446EEBD795342F1.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.uasset'
+[2018.07.29-16.41.15:855][610]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.uasset
+[2018.07.29-16.43.09:814][581]BlueprintLog: New page: Compile CH_Scientist
+[2018.07.29-16.43.09:924][581]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df55b6cb80, Size=624
+[2018.07.29-16.43.09:924][581]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df60037100, Size=624, CH_Scientist_C_49 Function /Engine/Transient.REINST_CH_Scientist_C_325:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.43.09:946][581]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df6119b100, Size=624, Default__CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.44.44:036][891]BlueprintLog: New page: Compile CH_Scientist
+[2018.07.29-16.44.44:150][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df6119b100, Size=624
+[2018.07.29-16.44.44:151][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df619c5300, Size=624, CH_Scientist_C_54 Function /Engine/Transient.REINST_CH_Scientist_C_329:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.44.44:173][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df51197100, Size=624, Default__CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.44.44:551][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df60037100, Size=624
+[2018.07.29-16.47.08:874][263]BlueprintLog: New page: Compile CH_Scientist
+[2018.07.29-16.47.08:995][263]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df51197100, Size=624
+[2018.07.29-16.47.08:995][263]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5c293d80, Size=624, CH_Scientist_C_59 Function /Engine/Transient.REINST_CH_Scientist_C_333:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.47.09:017][263]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df5157ac00, Size=624, Default__CH_Scientist_C Function /Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.CH_Scientist_C:ExecuteUbergraph_CH_Scientist
+[2018.07.29-16.47.09:388][263]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df619c5300, Size=624
+[2018.07.29-16.48.15:812][666]LogSavePackage: Save=148.09ms
+[2018.07.29-16.48.15:812][666]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_Scientist5E23EACD4EFC2FB6CC033CB4707B3F01.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.uasset'
+[2018.07.29-16.48.15:815][666]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Scientist.uasset
+[2018.07.29-16.48.23:933][252]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.48.26:207][435]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.48.27:727][596]LogDlgSystem: Compiling Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist` (Graph data -> Dialogue data)`
+[2018.07.29-16.48.27:751][596]LogDlgSystem: Refreshing data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist`
+[2018.07.29-16.48.27:751][596]LogDlgSystem: Exporting data for Dialogue = `/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.DlgScientist` TO file = `../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.dlg`
+[2018.07.29-16.48.27:781][596]LogSavePackage: Save=55.52ms
+[2018.07.29-16.48.27:781][596]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/DlgScientist8A6D190B4CD3D8F35C7C17A9492B506C.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.uasset'
+[2018.07.29-16.48.27:784][596]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/OtherCharacters/Neutral/DlgScientist.uasset
+[2018.07.29-16.48.30:514][844]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.48.30:569][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.48.30:569][844]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:48:30)
+[2018.07.29-16.48.30:569][844]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.48.30:578][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008440s)
+[2018.07.29-16.48.30:578][844]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.48.30:579][844]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.07.29-16.48.30:579][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.009624s)
+[2018.07.29-16.48.30:608][844]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5c293d80, Size=624
+[2018.07.29-16.48.30:614][844]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.48.30:632][844]LogInit: FAudioDevice initialized.
+[2018.07.29-16.48.30:666][844]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.48.30:670][844]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.48.30
+[2018.07.29-16.48.30:671][844]LogWorld: Bringing up level for play took: 0.003870
+[2018.07.29-16.48.30:675][844]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,242
+[2018.07.29-16.48.33:687][132]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.48.37:338][490]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.48.41:329][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.48.41:509][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.29-16.48.41:677][832]LogSavePackage: Save=113.59ms
+[2018.07.29-16.48.41:677][832]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_193B205CA442FA0EE2CC4E1BDBFA33C60.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap'
+[2018.07.29-16.48.41:683][832]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1.umap
+[2018.07.29-16.48.41:734][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Maps/Level_1_BuiltData" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.29-16.48.41:769][832]LogSavePackage: Save=5.11ms
+[2018.07.29-16.48.41:769][832]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/Level_1_BuiltData902301DF4AD158C29EFCB3962384D624.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset'
+[2018.07.29-16.48.41:770][832]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Maps/Level_1_BuiltData.uasset
+[2018.07.29-16.48.44:543][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain" FILE="../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/Robot/CH_RobotMain.uasset" SILENT=true
+[2018.07.29-16.48.44:914][ 43]LogSavePackage: Save=336.33ms
+[2018.07.29-16.48.44:914][ 43]LogSavePackage: Moving '../../../../Projects/Second_test 4.19/Saved/CH_RobotMain711F0C00429058842E14809531A5FB2D.tmp' to '../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/Robot/CH_RobotMain.uasset'
+[2018.07.29-16.48.44:916][ 43]LogSavePackage: Display: Finished SavePackage ../../../../Projects/Second_test 4.19/Content/2DSideScroller/Blueprints/Robot/CH_RobotMain.uasset
+[2018.07.29-16.49.14:695][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.29-16.49.14:728][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-16.49.14:729][ 57]PIE: New page: PIE session: Level_1 (29 июля 2018 г., 22:49:14)
+[2018.07.29-16.49.14:729][ 57]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_1
+[2018.07.29-16.49.14:736][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007127s)
+[2018.07.29-16.49.14:737][ 57]LogAIModule: Creating AISystem for world Level_1
+[2018.07.29-16.49.14:737][ 57]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2018.07.29-16.49.14:737][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_1.Level_1 to /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 (0.008188s)
+[2018.07.29-16.49.14:762][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded2cb3ec8, Size=4
+[2018.07.29-16.49.14:763][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df27e435d8, Size=4
+[2018.07.29-16.49.14:763][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df52dc0910, Size=4
+[2018.07.29-16.49.14:763][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5a5dc700, Size=4
+[2018.07.29-16.49.14:763][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df5761d400, Size=992
+[2018.07.29-16.49.14:763][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df57991000, Size=992
+[2018.07.29-16.49.14:763][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3a505d8, Size=4
+[2018.07.29-16.49.14:768][ 57]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-16.49.14:783][ 57]LogInit: FAudioDevice initialized.
+[2018.07.29-16.49.14:823][ 57]LogLoad: Game class is 'Respawn_GameMode_C'
+[2018.07.29-16.49.14:830][ 57]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.07.29-19.49.14
+[2018.07.29-16.49.14:832][ 57]LogWorld: Bringing up level for play took: 0.008024
+[2018.07.29-16.49.14:839][ 57]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_1 0,406
+[2018.07.29-16.49.16:111][175]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.49.19:691][524]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.49.22:947][844]LogDlgSystem: Error: Failed to start dialogue - the amount of participants does not match the dialogue's expectation! Dialogue Participants Num 1 != Participants Num 2
+[2018.07.29-16.49.28:180][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-16.49.31:162][618]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.29-16.50.12:229][618]LogStats: FPlatformStackWalk::StackWalkAndDump - 41.067 s
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: 
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: Stack: 
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x00000000733DB706 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:234]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000007313AE3A UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:299]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000007314ECD6 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:430]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000004B463DF6 UE4Editor-UnrealEd.dll!FKismetDebugUtilities::GetWatchText() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1108]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006122B2A8 UE4Editor-BlueprintGraph.dll!UK2Node::GetPinHoverText() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:1585]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x00000000498CC22A UE4Editor-GraphEditor.dll!SGraphPin::GetTooltipText() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:1106]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x00000000497577AC UE4Editor-GraphEditor.dll!TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64>::operator()<>() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:156]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000004975AEC9 UE4Editor-GraphEditor.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64> >() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\templates\tuple.h:498]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x0000000049896E65 UE4Editor-GraphEditor.dll!TBaseSPMethodDelegateInstance<1,SGraphPin,0,FText __cdecl(void)>::Execute() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006BD66057 UE4Editor-Slate.dll!TBaseDelegate<FText>::Execute() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006BD6BB51 UE4Editor-Slate.dll!TAttribute<FText>::Get() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\misc\attribute.h:137]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006BF9C253 UE4Editor-Slate.dll!SToolTip::IsEmpty() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\widgets\stooltip.cpp:87]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006BDC0475 UE4Editor-Slate.dll!FSlateApplication::UpdateToolTip() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:3674]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006BD98360 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseMoveEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6126]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000006BD8B197 UE4Editor-Slate.dll!FSlateApplication::OnMouseMove() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6076]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000007828E4EE UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1764]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x0000000078281B78 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2172]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000007829052C UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:889]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000007827D679 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:726]
+[2018.07.29-16.50.12:229][618]LogOutputDevice: Error: [Callstack] 0x000000009D816CC1 USER32.dll!UnknownFunction []
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x000000009D816693 USER32.dll!UnknownFunction []
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x0000000078291666 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x0000000077235475 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3263]
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x0000000077246BD0 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x0000000077246C4A UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x0000000077254177 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x0000000077255B87 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x000000009DDA3034 KERNEL32.DLL!UnknownFunction []
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: [Callstack] 0x000000009DFF1431 ntdll.dll!UnknownFunction []
+[2018.07.29-16.50.12:230][618]LogOutputDevice: Error: 
+[2018.07.29-16.50.12:239][618]LogStats:                SubmitErrorReport -  0.000 s

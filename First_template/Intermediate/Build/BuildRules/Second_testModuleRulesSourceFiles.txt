@@ -1,0 +1,3 @@
+D:\Epic Games\Projects\Second_test 4.19\Source\Second_test\Second_test.Build.cs
+D:\Epic Games\Projects\Second_test 4.19\Source\Second_test.Target.cs
+D:\Epic Games\Projects\Second_test 4.19\Source\Second_testEditor.Target.cs

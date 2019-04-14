@@ -1,0 +1,1271 @@
+﻿Log file open, 01/31/18 18:12:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Second_test
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1152107087) SRandInit(-1152107086).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.497042
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Programs/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.31-16.12.56:224][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-16.12.56:224][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.31-16.12.56:323][  0]LogInit: Computer: DESKTOP-96BM7AT
+[2018.01.31-16.12.56:323][  0]LogInit: User: KaraSick
+[2018.01.31-16.12.56:323][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.31-16.12.56:323][  0]LogInit: High frequency timer resolution =1.562450 MHz
+[2018.01.31-16.12.56:324][  0]LogMemory: Memory total: Physical=7.4GB (8GB approx)
+[2018.01.31-16.12.56:324][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.31-16.12.56:324][  0]LogMemory: Process Physical Memory: 275.12 MB used, 275.12 MB peak
+[2018.01.31-16.12.56:324][  0]LogMemory: Process Virtual Memory: 269.66 MB used, 269.66 MB peak
+[2018.01.31-16.12.56:324][  0]LogMemory: Physical Memory: 5872.75 MB used,  1707.83 MB free, 7580.57 MB total
+[2018.01.31-16.12.56:324][  0]LogMemory: Virtual Memory: 677.17 MB used,  1707.83 MB free, 134217728.00 MB total
+[2018.01.31-16.12.56:921][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.31-16.12.56:921][  0]LogInit: Using OS detected locale (ru-UA).
+[2018.01.31-16.12.56:933][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.31-16.12.56:934][  0]LogTextLocalizationManager: No localization for 'ru-UA' exists, so 'en' will be used for the locale.
+[2018.01.31-16.12.57:966][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.31-16.12.58:943][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.31-16.12.59:058][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.01.31-16.12.59:058][  0]LogD3D11RHI:       2009/0/3790 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.31-16.12.59:070][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics' (Feature Level 11_0)
+[2018.01.31-16.12.59:070][  0]LogD3D11RHI:       114/0/3790 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.31-16.12.59:077][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.31-16.12.59:077][  0]LogD3D11RHI:       0/0/3790 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.31-16.12.59:077][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.31-16.12.59:098][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.31-16.12.59:099][  0]LogD3D11RHI:     GPU DeviceId: 0x1299 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.31-16.12.59:099][  0]LogWindows: EnumDisplayDevices:
+[2018.01.31-16.12.59:099][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.01.31-16.12.59:100][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.01.31-16.12.59:100][  0]LogWindows:    2. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.01.31-16.12.59:101][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.31-16.12.59:101][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920M
+[2018.01.31-16.12.59:101][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.31-16.12.59:101][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.31-16.12.59:101][  0]LogRHI: Texture pool is 1406 MB (70% of 2009 MB)
+[2018.01.31-16.12.59:176][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.31-16.12.59:219][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.31-16.12.59:222][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../Epic Projects/Second_test/Intermediate/Shaders/WorkingDirectory/14984/).
+[2018.01.31-16.12.59:223][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kara Sick/AppData/Local/Temp/UnrealShaderWorkingDir/10363059463678265DEC4696BE730831/'.
+[2018.01.31-16.12.59:223][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.31-16.13.03:742][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.31-16.13.03:936][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.31-16.13.04:130][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.31-16.13.04:325][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.31-16.13.04:522][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.31-16.13.04:717][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.31-16.13.04:910][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.31-16.13.05:112][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.31-16.13.05:281][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.31-16.13.05:469][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.31-16.13.05:653][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.31-16.13.05:838][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.31-16.13.06:023][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.31-16.13.06:207][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.31-16.13.06:586][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.31-16.13.06:586][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.31-16.13.06:773][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.31-16.13.06:913][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.31-16.13.07:191][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.31-16.13.07:300][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.31-16.13.07:485][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.31-16.13.07:667][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.31-16.13.07:851][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.31-16.13.08:037][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.31-16.13.08:037][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.31-16.13.09:712][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.31-16.13.10:013][  0]LogDerivedDataCache: Loaded boot cache 0.30s 79MB C:/Users/Kara Sick/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.31-16.13.10:013][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kara Sick/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.31-16.13.10:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Epic Projects/Second_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.31-16.13.10:013][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.31-16.13.10:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Epic Projects/Second_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.31-16.13.10:013][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.31-16.13.10:092][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.31-16.13.10:108][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kara Sick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.31-16.13.10:154][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.31-16.13.10:155][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.31-16.13.10:157][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-16.13.10:157][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-16.13.11:734][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-16.13.12:920][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.31-16.13.13:104][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.31-16.13.13:105][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.31-16.13.13:105][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.31-16.13.13:105][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.31-16.13.13:105][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.31-16.13.13:194][  0]LogNetVersion: Second_test , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 687885985)
+[2018.01.31-16.13.13:721][  0]LogAssetRegistry: FAssetRegistry took 0.0420 seconds to start up
+[2018.01.31-16.13.15:541][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.205984 seconds
+[2018.01.31-16.13.15:562][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.31-16.13.15:562][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.31-16.13.15:562][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.31-16.13.15:760][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.31-16.13.25:567][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.31-16.13.25:689][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.31-16.13.27:980][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.31-16.13.29:529][  0]SourceControl: Source control is disabled
+[2018.01.31-16.13.29:530][  0]SourceControl: Source control is disabled
+[2018.01.31-16.13.29:722][  0]SourceControl: Source control is disabled
+[2018.01.31-16.13.29:910][  0]SourceControl: Source control is disabled
+[2018.01.31-16.13.32:950][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.31-16.13.33:945][  0]LogOcInput: OculusInput pre-init called
+[2018.01.31-16.13.34:974][  0]LogEngine: Initializing Engine...
+[2018.01.31-16.13.34:982][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.31-16.13.35:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.31-16.13.35:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.31-16.13.36:205][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.31-16.13.39:819][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.13.39:886][  0]LogInit: FAudioDevice initialized.
+[2018.01.31-16.13.40:061][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Kara Sick/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.31-16.13.40:113][  0]LogInit: Texture streaming: Enabled
+[2018.01.31-16.13.40:489][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.31-16.13.41:000][  0]LogInit: Transaction tracking system initialized
+[2018.01.31-16.13.42:193][  0]BlueprintLog: New page: Editor Load
+[2018.01.31-16.13.45:408][  0]LocalizationService: Localization service is disabled
+[2018.01.31-16.13.49:094][  0]LogConsoleResponse: Display: 
+[2018.01.31-16.13.49:778][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.31-16.13.49:778][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.31-16.13.49:779][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.31-16.13.50:347][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/Epic Projects/Second_test/Content/' took 0.42s
+[2018.01.31-16.13.54:180][  0]SourceControl: Source control is disabled
+[2018.01.31-16.13.54:180][  0]Cmd: MAP LOAD FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Maps/Level_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-16.13.54:181][  0]LightingResults: New page: Lighting Build
+[2018.01.31-16.13.54:332][  0]MapCheck: New page: Map Check
+[2018.01.31-16.13.54:332][  0]LightingResults: New page: Lighting Build
+[2018.01.31-16.14.09:480][  0]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.14.09:635][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-16.14.09:670][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-16.14.09:868][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 197.293ms to complete.
+[2018.01.31-16.14.09:868][  0]LogFileHelpers: Loading map 'Level_test' took 15.688
+[2018.01.31-16.14.09:959][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-16.14.10:696][  0]LogCollectionManager: Loaded 0 collections in 0.005666 seconds
+[2018.01.31-16.14.10:910][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/Epic Projects/Second_test/Saved/Collections/' took 0.01s
+[2018.01.31-16.14.10:910][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/Epic Projects/Second_test/Content/Developers/KaraSick/Collections/' took 0.01s
+[2018.01.31-16.14.10:911][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/Epic Projects/Second_test/Content/Collections/' took 0.01s
+[2018.01.31-16.14.10:911][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.31-16.14.10:950][  0]LogContentBrowser: Native class hierarchy populated in 0.0382 seconds. Added 2363 classes and 519 folders.
+[2018.01.31-16.14.11:185][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.31-16.14.12:869][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.31-16.14.14:040][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.31-16.14.14:368][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.31-16.14.14:368][  0]LogLoad: (Engine Initialization) Total time: 90.03 seconds
+[2018.01.31-16.14.14:368][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.31-16.14.14:368][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.31-16.14.14:545][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.01.31-16.14.14:549][  0]LogSlate: Took 0.000638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-16.14.14:555][  0]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.31-16.14.14:627][  0]LogSlate: Took 0.032315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.31-16.14.15:356][  0]LogSlate: Took 0.037761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-16.14.15:435][  1]LogRenderer: Reallocating scene render targets to support 948x408 Format 9 NumSamples 1 (Frame:1).
+[2018.01.31-16.14.16:326][  2]LogSlate: Took 0.001391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-16.14.16:888][  8]LogAssetRegistry: Asset discovery search completed in 63.1911 seconds
+[2018.01.31-16.14.16:899][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.31-16.14.16:899][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000257 seconds (updated 0 objects)
+[2018.01.31-16.14.25:846][358]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (space-2_Sprite22)
+[2018.01.31-16.14.48:339][150]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-16.14.49:176][150]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-16.14.50:549][150]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 116 classes and 0 folders.
+[2018.01.31-16.14.55:638][150]LogSlate: Took 0.031413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.31-16.15.20:607][947]LogSlate: Took 0.096770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.31-16.16.17:878][ 80]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.31-16.16.18:225][ 81]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Secondtest
+[2018.01.31-16.16.18:225][ 81]LogTemp: CWD: D:\Programs\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.31-16.16.18:225][ 81]LogTemp: Initial Dir: D:\Programs\Epic Games\UE_4.18
+[2018.01.31-16.16.18:225][ 81]LogTemp: Env CWD: D:\Programs\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.31-16.16.18:225][ 81]LogTemp: BranchPath = DESKTOP-96BM7AT/D/Programs/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-96BM7AT/D/Programs/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.31-16.16.18:225][ 81]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kara Sick\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.31-16.17.10:570][900]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-16.17.10:570][900]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-16.23.15:843][485]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.23.16:311][485]LogBlueprint: Error: [Compiler BP_RobotMain] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.01.31-16.23.16:311][485]LogBlueprint: Error: [Compiler BP_RobotMain] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.01.31-16.23.16:327][485]LogBlueprint: Error: [Compiler BP_RobotMain] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.01.31-16.23.16:332][485]LogBlueprint: Error: [Compiler BP_RobotMain] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.01.31-16.23.17:609][485]LogBlueprint: Warning: [Compiler BP_RobotMain] [0633.27] Compile of BP_RobotMain failed. 4 Fatal Issue(s) 0 Warning(s) [in 1,765 ms] (/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain.BP_RobotMain)
+[2018.01.31-16.23.58:362][397]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.24.00:403][430]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.24.00:982][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.24.01:137][430]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:24:01 PM)
+[2018.01.31-16.24.01:160][430]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.24.01:281][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121078s)
+[2018.01.31-16.24.01:283][430]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.24.01:289][430]LogPlayLevel: PIE: World Init took: (0.007918s)
+[2018.01.31-16.24.01:300][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.140330s)
+[2018.01.31-16.24.01:399][430]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.24.01:446][430]LogInit: FAudioDevice initialized.
+[2018.01.31-16.24.01:612][430]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.24.01:854][430]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.24.01
+[2018.01.31-16.24.01:948][430]LogWorld: Bringing up level for play took: 0.128927
+[2018.01.31-16.24.02:383][430]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.01.31-16.24.02:636][430]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.596
+[2018.01.31-16.24.02:969][430]LogRenderer: Reallocating scene render targets to support 948x536 Format 9 NumSamples 1 (Frame:1).
+[2018.01.31-16.25.56:556][403]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.25.56:646][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.25.56:646][403]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:25:56 PM)
+[2018.01.31-16.25.56:646][403]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.25.56:714][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068064s)
+[2018.01.31-16.25.56:717][403]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.25.56:718][403]LogPlayLevel: PIE: World Init took: (0.002858s)
+[2018.01.31-16.25.56:718][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.071972s)
+[2018.01.31-16.25.56:776][403]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.25.56:821][403]LogInit: FAudioDevice initialized.
+[2018.01.31-16.25.57:192][403]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.25.57:228][403]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.25.57
+[2018.01.31-16.25.57:234][403]LogWorld: Bringing up level for play took: 0.040465
+[2018.01.31-16.25.57:241][403]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.201
+[2018.01.31-16.26.02:777][668]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.26.02:869][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.26.02:869][668]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:26:02 PM)
+[2018.01.31-16.26.02:869][668]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.26.02:942][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072103s)
+[2018.01.31-16.26.02:944][668]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.26.02:945][668]LogPlayLevel: PIE: World Init took: (0.003062s)
+[2018.01.31-16.26.02:946][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076746s)
+[2018.01.31-16.26.03:013][668]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.26.03:061][668]LogInit: FAudioDevice initialized.
+[2018.01.31-16.26.03:114][668]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.26.03:151][668]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.26.03
+[2018.01.31-16.26.03:156][668]LogWorld: Bringing up level for play took: 0.040097
+[2018.01.31-16.26.03:163][668]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.123
+[2018.01.31-16.26.18:769][489]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.26.18:866][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.26.18:866][489]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:26:18 PM)
+[2018.01.31-16.26.18:867][489]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.26.18:937][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070350s)
+[2018.01.31-16.26.18:939][489]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.26.18:940][489]LogPlayLevel: PIE: World Init took: (0.002704s)
+[2018.01.31-16.26.18:941][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.074787s)
+[2018.01.31-16.26.19:005][489]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.26.19:051][489]LogInit: FAudioDevice initialized.
+[2018.01.31-16.26.19:103][489]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.26.19:138][489]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.26.19
+[2018.01.31-16.26.19:144][489]LogWorld: Bringing up level for play took: 0.039612
+[2018.01.31-16.26.19:151][489]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.112
+[2018.01.31-16.26.24:704][777]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.26.24:800][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.26.24:801][777]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:26:24 PM)
+[2018.01.31-16.26.24:801][777]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.26.24:872][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070833s)
+[2018.01.31-16.26.24:874][777]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.26.24:875][777]LogPlayLevel: PIE: World Init took: (0.002876s)
+[2018.01.31-16.26.24:876][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.075204s)
+[2018.01.31-16.26.24:939][777]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.26.24:984][777]LogInit: FAudioDevice initialized.
+[2018.01.31-16.26.25:036][777]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.26.25:079][777]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.26.25
+[2018.01.31-16.26.25:085][777]LogWorld: Bringing up level for play took: 0.047683
+[2018.01.31-16.26.25:094][777]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.054
+[2018.01.31-16.28.09:689][118]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.28.14:027][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.28.14:126][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.28.14:126][245]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:28:14 PM)
+[2018.01.31-16.28.14:126][245]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.28.14:194][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067515s)
+[2018.01.31-16.28.14:196][245]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.28.14:197][245]LogPlayLevel: PIE: World Init took: (0.002543s)
+[2018.01.31-16.28.14:198][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.071132s)
+[2018.01.31-16.28.14:262][245]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.28.14:309][245]LogInit: FAudioDevice initialized.
+[2018.01.31-16.28.14:407][245]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.28.14:450][245]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.28.14
+[2018.01.31-16.28.14:457][245]LogWorld: Bringing up level for play took: 0.048717
+[2018.01.31-16.28.14:492][245]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.548
+[2018.01.31-16.28.23:797][559]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.28.25:395][575]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.28.25:498][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.28.25:498][575]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:28:25 PM)
+[2018.01.31-16.28.25:499][575]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.28.25:573][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074929s)
+[2018.01.31-16.28.25:577][575]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.28.25:578][575]LogPlayLevel: PIE: World Init took: (0.004079s)
+[2018.01.31-16.28.25:579][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.080202s)
+[2018.01.31-16.28.25:638][575]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.28.25:685][575]LogInit: FAudioDevice initialized.
+[2018.01.31-16.28.25:771][575]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.28.25:809][575]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.28.25
+[2018.01.31-16.28.25:814][575]LogWorld: Bringing up level for play took: 0.040981
+[2018.01.31-16.28.25:846][575]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.806
+[2018.01.31-16.28.31:694][761]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.28.31:795][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.28.31:795][761]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:28:31 PM)
+[2018.01.31-16.28.31:795][761]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.28.31:866][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070685s)
+[2018.01.31-16.28.31:869][761]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.28.31:870][761]LogPlayLevel: PIE: World Init took: (0.003384s)
+[2018.01.31-16.28.31:871][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.075992s)
+[2018.01.31-16.28.31:932][761]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.28.31:980][761]LogInit: FAudioDevice initialized.
+[2018.01.31-16.28.32:067][761]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.28.32:108][761]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.28.32
+[2018.01.31-16.28.32:114][761]LogWorld: Bringing up level for play took: 0.044771
+[2018.01.31-16.28.32:146][761]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.106
+[2018.01.31-16.28.37:909][943]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.28.38:014][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.28.38:015][943]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:28:38 PM)
+[2018.01.31-16.28.38:015][943]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.28.38:092][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077299s)
+[2018.01.31-16.28.38:095][943]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.28.38:096][943]LogPlayLevel: PIE: World Init took: (0.003435s)
+[2018.01.31-16.28.38:097][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.082076s)
+[2018.01.31-16.28.38:160][943]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.28.38:212][943]LogInit: FAudioDevice initialized.
+[2018.01.31-16.28.38:307][943]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.28.38:353][943]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.28.38
+[2018.01.31-16.28.38:359][943]LogWorld: Bringing up level for play took: 0.050041
+[2018.01.31-16.28.38:396][943]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.356
+[2018.01.31-16.29.18:059][306]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.29.18:159][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.29.18:159][306]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:29:18 PM)
+[2018.01.31-16.29.18:159][306]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.29.18:230][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070967s)
+[2018.01.31-16.29.18:234][306]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.29.18:235][306]LogPlayLevel: PIE: World Init took: (0.004487s)
+[2018.01.31-16.29.18:236][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.077236s)
+[2018.01.31-16.29.18:302][306]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.29.18:363][306]LogInit: FAudioDevice initialized.
+[2018.01.31-16.29.18:453][306]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.29.18:492][306]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.29.18
+[2018.01.31-16.29.18:498][306]LogWorld: Bringing up level for play took: 0.043164
+[2018.01.31-16.29.18:530][306]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.51
+[2018.01.31-16.30.01:263][768]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.30.03:059][783]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.30.03:169][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.30.03:169][783]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:30:03 PM)
+[2018.01.31-16.30.03:170][783]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.30.03:249][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079222s)
+[2018.01.31-16.30.03:252][783]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.30.03:253][783]LogPlayLevel: PIE: World Init took: (0.003564s)
+[2018.01.31-16.30.03:254][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.084851s)
+[2018.01.31-16.30.03:322][783]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.30.03:378][783]LogInit: FAudioDevice initialized.
+[2018.01.31-16.30.03:474][783]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.30.03:526][783]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.30.03
+[2018.01.31-16.30.03:533][783]LogWorld: Bringing up level for play took: 0.056726
+[2018.01.31-16.30.03:571][783]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.531
+[2018.01.31-16.30.24:922][586]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.30.26:548][603]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.30.26:650][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.30.26:650][603]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:30:26 PM)
+[2018.01.31-16.30.26:651][603]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.30.26:720][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069346s)
+[2018.01.31-16.30.26:722][603]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.30.26:726][603]LogPlayLevel: PIE: World Init took: (0.005539s)
+[2018.01.31-16.30.26:727][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076273s)
+[2018.01.31-16.30.26:787][603]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.30.26:833][603]LogInit: FAudioDevice initialized.
+[2018.01.31-16.30.26:921][603]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.30.26:965][603]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.30.26
+[2018.01.31-16.30.26:972][603]LogWorld: Bringing up level for play took: 0.050233
+[2018.01.31-16.30.27:010][603]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.03
+[2018.01.31-16.30.34:508][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.30.34:607][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.30.34:608][840]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:30:34 PM)
+[2018.01.31-16.30.34:608][840]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.30.34:678][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070568s)
+[2018.01.31-16.30.34:681][840]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.30.34:682][840]LogPlayLevel: PIE: World Init took: (0.003640s)
+[2018.01.31-16.30.34:684][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076187s)
+[2018.01.31-16.30.34:748][840]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.30.34:794][840]LogInit: FAudioDevice initialized.
+[2018.01.31-16.30.34:885][840]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.30.34:926][840]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.30.34
+[2018.01.31-16.30.34:932][840]LogWorld: Bringing up level for play took: 0.044558
+[2018.01.31-16.30.34:964][840]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.076
+[2018.01.31-16.30.52:835][489]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.30.52:934][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.30.52:934][489]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:30:52 PM)
+[2018.01.31-16.30.52:934][489]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.30.53:007][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072305s)
+[2018.01.31-16.30.53:010][489]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.30.53:010][489]LogPlayLevel: PIE: World Init took: (0.002751s)
+[2018.01.31-16.30.53:011][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076473s)
+[2018.01.31-16.30.53:079][489]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.30.53:125][489]LogInit: FAudioDevice initialized.
+[2018.01.31-16.30.53:210][489]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.30.53:250][489]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.30.53
+[2018.01.31-16.30.53:256][489]LogWorld: Bringing up level for play took: 0.044163
+[2018.01.31-16.30.53:290][489]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.25
+[2018.01.31-16.31.46:613][459]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.31.46:710][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.31.46:710][459]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:31:46 PM)
+[2018.01.31-16.31.46:711][459]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.31.46:781][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069401s)
+[2018.01.31-16.31.46:783][459]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.31.46:783][459]LogPlayLevel: PIE: World Init took: (0.002469s)
+[2018.01.31-16.31.46:784][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.072987s)
+[2018.01.31-16.31.46:846][459]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.31.46:895][459]LogInit: FAudioDevice initialized.
+[2018.01.31-16.31.46:997][459]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.31.47:038][459]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.31.47
+[2018.01.31-16.31.47:044][459]LogWorld: Bringing up level for play took: 0.045114
+[2018.01.31-16.31.47:080][459]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.039
+[2018.01.31-16.33.07:443][465]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.33.08:941][478]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.33.09:041][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.33.09:041][478]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:33:09 PM)
+[2018.01.31-16.33.09:041][478]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.33.09:110][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068499s)
+[2018.01.31-16.33.09:113][478]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.33.09:116][478]LogPlayLevel: PIE: World Init took: (0.005682s)
+[2018.01.31-16.33.09:117][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.075827s)
+[2018.01.31-16.33.09:180][478]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.33.09:228][478]LogInit: FAudioDevice initialized.
+[2018.01.31-16.33.09:319][478]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.33.09:360][478]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.33.09
+[2018.01.31-16.33.09:366][478]LogWorld: Bringing up level for play took: 0.046256
+[2018.01.31-16.33.09:400][478]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.36
+[2018.01.31-16.33.45:352][200]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.33.46:929][216]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.33.47:029][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.33.47:029][216]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:33:47 PM)
+[2018.01.31-16.33.47:029][216]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.33.47:099][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070086s)
+[2018.01.31-16.33.47:102][216]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.33.47:102][216]LogPlayLevel: PIE: World Init took: (0.002664s)
+[2018.01.31-16.33.47:103][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.073860s)
+[2018.01.31-16.33.47:168][216]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.33.47:213][216]LogInit: FAudioDevice initialized.
+[2018.01.31-16.33.47:300][216]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.33.47:339][216]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.33.47
+[2018.01.31-16.33.47:345][216]LogWorld: Bringing up level for play took: 0.043548
+[2018.01.31-16.33.47:378][216]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.338
+[2018.01.31-16.36.39:681][520]Set new viewmode: Wireframe
+[2018.01.31-16.36.45:086][697]LogEditorTransaction: Undo Move Node
+[2018.01.31-16.36.47:329][748]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.36.48:901][764]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.36.49:001][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.36.49:001][764]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:36:49 PM)
+[2018.01.31-16.36.49:001][764]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.36.49:073][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072152s)
+[2018.01.31-16.36.49:076][764]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.36.49:077][764]LogPlayLevel: PIE: World Init took: (0.003310s)
+[2018.01.31-16.36.49:078][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076804s)
+[2018.01.31-16.36.49:141][764]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.36.49:187][764]LogInit: FAudioDevice initialized.
+[2018.01.31-16.36.49:281][764]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.36.49:320][764]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.36.49
+[2018.01.31-16.36.49:327][764]LogWorld: Bringing up level for play took: 0.045041
+[2018.01.31-16.36.49:363][764]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.323
+[2018.01.31-16.36.50:507][798]Set new viewmode: Wireframe
+[2018.01.31-16.36.51:100][820]Set new viewmode: Unlit
+[2018.01.31-16.37.04:382][321]Set new viewmode: Wireframe
+[2018.01.31-16.37.05:554][367]Set new viewmode: Unlit
+[2018.01.31-16.37.11:374][614]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-16.37.13:272][646]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-16.37.13:371][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-16.37.13:371][646]PIE: New page: PIE session: Level_test (Jan 31, 2018, 8:37:13 PM)
+[2018.01.31-16.37.13:371][646]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-16.37.13:440][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068105s)
+[2018.01.31-16.37.13:442][646]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-16.37.13:442][646]LogPlayLevel: PIE: World Init took: (0.002600s)
+[2018.01.31-16.37.13:443][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.071850s)
+[2018.01.31-16.37.13:509][646]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-16.37.13:554][646]LogInit: FAudioDevice initialized.
+[2018.01.31-16.37.13:646][646]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-16.37.13:686][646]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-18.37.13
+[2018.01.31-16.37.13:692][646]LogWorld: Bringing up level for play took: 0.043571
+[2018.01.31-16.37.13:724][646]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.684
+[2018.01.31-16.41.46:711][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScroller/Maps/Level_test' took 0.051
+[2018.01.31-16.41.46:813][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain] ([1] browsable assets)...
+[2018.01.31-16.41.46:830][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain]
+[2018.01.31-16.41.48:669][660]LogSavePackage: Save=752.94ms
+[2018.01.31-16.41.48:669][660]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/BP_RobotMain_Auto12F59CDFC465C361661F84681FA60A5F7.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto1.uasset'
+[2018.01.31-16.41.48:712][660]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto1.uasset
+[2018.01.31-16.41.48:712][660]LogFileHelpers: Auto-saving content packages took 1.999
+[2018.01.31-16.51.18:267][109]LogSavePackage: Save=59.78ms
+[2018.01.31-16.51.18:267][109]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk32D59C4E4336D80473F77E9005AC037D.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk.uasset'
+[2018.01.31-16.51.18:273][109]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk.uasset
+[2018.01.31-16.51.28:771][456]LogRenderer: Reallocating scene render targets to support 948x556 Format 9 NumSamples 1 (Frame:1).
+[2018.01.31-16.55.29:460][ 45]LogSavePackage: Save=26.22ms
+[2018.01.31-16.55.29:460][ 45]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite4BF017DE744B6FC3705F4119301C0CD31.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite4.uasset'
+[2018.01.31-16.55.29:467][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite4.uasset
+[2018.01.31-16.55.37:108][253]LogSavePackage: Save=26.65ms
+[2018.01.31-16.55.37:108][253]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/2065D83424FE0EFDE3EA4F6910A9EC8A8.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/2.uasset'
+[2018.01.31-16.55.37:114][253]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/2.uasset
+[2018.01.31-16.55.49:938][616]LogSavePackage: Save=26.34ms
+[2018.01.31-16.55.49:938][616]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite2103AE5F9496300F953BE8D832BA81811.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite2.uasset'
+[2018.01.31-16.55.49:945][616]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite2.uasset
+[2018.01.31-16.56.02:350][955]LogSavePackage: Save=29.84ms
+[2018.01.31-16.56.02:351][955]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite1B5AD61CE403A4DC2C7ECF98112CBB794.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite1.uasset'
+[2018.01.31-16.56.02:357][955]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite1.uasset
+[2018.01.31-16.56.08:122][101]LogSavePackage: Save=27.66ms
+[2018.01.31-16.56.08:122][101]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite1714C19B427CDA8EE62A18885ABE26B9.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite.uasset'
+[2018.01.31-16.56.08:128][101]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite.uasset
+[2018.01.31-16.58.51:784][723]LogSavePackage: Save=32.22ms
+[2018.01.31-16.58.51:784][723]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite51421ECB3444D92D56BBD0BABF75E5C3B.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite5.uasset'
+[2018.01.31-16.58.51:791][723]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite5.uasset
+[2018.01.31-16.58.58:286][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain" FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Blueprints/Robot/BP_RobotMain.uasset" SILENT=true
+[2018.01.31-16.58.59:017][875]LogSavePackage: Save=650.71ms
+[2018.01.31-16.58.59:017][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/BP_RobotMainB79274344A6C13AA928B4893182438AA.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Blueprints/Robot/BP_RobotMain.uasset'
+[2018.01.31-16.58.59:025][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Blueprints/Robot/BP_RobotMain.uasset
+[2018.01.31-16.58.59:150][875]LogSavePackage: Save=24.77ms
+[2018.01.31-16.58.59:150][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk192D9FEB47329088C35CCDBCA0B2EC2A.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk.uasset'
+[2018.01.31-16.58.59:157][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk.uasset
+[2018.01.31-16.58.59:352][875]LogSavePackage: Save=97.19ms
+[2018.01.31-16.58.59:352][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite33AC17C845F2DD0BC28835AECEBEA900.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite.uasset'
+[2018.01.31-16.58.59:359][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite.uasset
+[2018.01.31-16.58.59:434][875]LogSavePackage: Save=27.82ms
+[2018.01.31-16.58.59:435][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite37632415F4EE759DC220C47A1B97C8C7A.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite3.uasset'
+[2018.01.31-16.58.59:441][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite3.uasset
+[2018.01.31-16.58.59:594][875]LogSavePackage: Save=30.89ms
+[2018.01.31-16.58.59:594][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite4C7218BDC4DD2F1A52F86A1AB17E7DA95.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite4.uasset'
+[2018.01.31-16.58.59:600][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite4.uasset
+[2018.01.31-16.58.59:697][875]LogSavePackage: Save=32.27ms
+[2018.01.31-16.58.59:697][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite621BB8EBB4D387C7FE541D0AD91288374.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite6.uasset'
+[2018.01.31-16.58.59:703][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite6.uasset
+[2018.01.31-16.58.59:819][875]LogSavePackage: Save=26.84ms
+[2018.01.31-16.58.59:819][875]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite791F67E614391436042C1CEA33D502205.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite7.uasset'
+[2018.01.31-16.58.59:826][875]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite7.uasset
+[2018.01.31-16.59.15:617][560]LogSavePackage: Save=23.36ms
+[2018.01.31-16.59.15:617][560]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk1104CF28B458B0B79806F7091B5866F33.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1.uasset'
+[2018.01.31-16.59.15:624][560]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1.uasset
+[2018.01.31-16.59.33:904][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Animations/Robot/Walk" FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset" SILENT=true
+[2018.01.31-16.59.33:937][352]LogSavePackage: Save=26.96ms
+[2018.01.31-16.59.33:937][352]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk5F8BBB564C1926423D3CBE99E079AFDF.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset'
+[2018.01.31-16.59.33:943][352]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset
+[2018.01.31-17.00.38:753][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScroller/Maps/Level_test' took 0.065
+[2018.01.31-17.00.38:774][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Animations/Robot/Walk] ([1] browsable assets)...
+[2018.01.31-17.00.38:806][795]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Animations/Robot/Walk.Walk]
+[2018.01.31-17.00.38:806][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Animations/Robot/Walk]
+[2018.01.31-17.00.38:931][795]LogSavePackage: Save=25.58ms
+[2018.01.31-17.00.38:931][795]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Auto2439D1D754E6302B9608779912EA82DDA.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Animations/Robot/Walk_Auto2.uasset'
+[2018.01.31-17.00.38:933][795]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Animations/Robot/Walk_Auto2.uasset
+[2018.01.31-17.00.38:933][795]LogFileHelpers: Auto-saving content packages took 0.177
+[2018.01.31-17.01.01:950][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Animations/Robot/Walk" FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset" SILENT=true
+[2018.01.31-17.01.02:033][958]LogSavePackage: Save=17.04ms
+[2018.01.31-17.01.02:033][958]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk36EF527848236337BE708F9B7EF2E5F2.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset'
+[2018.01.31-17.01.02:039][958]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset
+[2018.01.31-17.01.44:001][ 75]LogRenderer: Reallocating scene render targets to support 1012x556 Format 9 NumSamples 1 (Frame:24203).
+[2018.01.31-17.01.46:850][173]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-17.07.31:629][ 28]LogSlate: Took 0.026985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.31-17.10.28:138][617]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-17.12.03:265][208]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-17.12.05:442][235]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.12.05:556][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.12.05:557][235]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:12:05 PM)
+[2018.01.31-17.12.05:557][235]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.12.05:629][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071649s)
+[2018.01.31-17.12.05:631][235]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.12.05:632][235]LogPlayLevel: PIE: World Init took: (0.002803s)
+[2018.01.31-17.12.05:633][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.075955s)
+[2018.01.31-17.12.05:700][235]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.12.05:753][235]LogInit: FAudioDevice initialized.
+[2018.01.31-17.12.05:832][235]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.12.05:872][235]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.12.05
+[2018.01.31-17.12.05:878][235]LogWorld: Bringing up level for play took: 0.043227
+[2018.01.31-17.12.05:904][235]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.864
+[2018.01.31-17.12.16:427][497]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.12.16:523][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.12.16:523][497]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:12:16 PM)
+[2018.01.31-17.12.16:523][497]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.12.16:592][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069206s)
+[2018.01.31-17.12.16:595][497]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.12.16:595][497]LogPlayLevel: PIE: World Init took: (0.002561s)
+[2018.01.31-17.12.16:596][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.073179s)
+[2018.01.31-17.12.16:660][497]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.12.16:705][497]LogInit: FAudioDevice initialized.
+[2018.01.31-17.12.16:781][497]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.12.16:820][497]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.12.16
+[2018.01.31-17.12.16:826][497]LogWorld: Bringing up level for play took: 0.041891
+[2018.01.31-17.12.16:851][497]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.189
+[2018.01.31-17.12.17:125][498]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057358 > MaxSimulationTimeStep (0.050) for 'BP_RobotMain_C_0', movement 'Walking'
+[2018.01.31-17.13.03:515][318]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-17.13.05:284][334]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.13.05:385][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.13.05:386][334]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:13:05 PM)
+[2018.01.31-17.13.05:386][334]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.13.05:453][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066796s)
+[2018.01.31-17.13.05:455][334]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.13.05:456][334]LogPlayLevel: PIE: World Init took: (0.002674s)
+[2018.01.31-17.13.05:457][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.071202s)
+[2018.01.31-17.13.05:515][334]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.13.05:561][334]LogInit: FAudioDevice initialized.
+[2018.01.31-17.13.05:642][334]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.13.05:682][334]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.13.05
+[2018.01.31-17.13.05:688][334]LogWorld: Bringing up level for play took: 0.043732
+[2018.01.31-17.13.05:712][334]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.672
+[2018.01.31-17.14.28:263][835]LogEditorTransaction: Undo Move Node
+[2018.01.31-17.14.31:351][919]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-17.15.26:873][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Animations/Robot/Walk" FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset" SILENT=true
+[2018.01.31-17.15.27:032][846]LogSavePackage: Save=92.42ms
+[2018.01.31-17.15.27:032][846]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/WalkFC6334234F7FE1E3F512B4A765F427C3.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset'
+[2018.01.31-17.15.27:041][846]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset
+[2018.01.31-17.15.48:552][678]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.15.48:649][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.15.48:649][678]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:15:48 PM)
+[2018.01.31-17.15.48:649][678]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.15.48:719][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069009s)
+[2018.01.31-17.15.48:721][678]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.15.48:722][678]LogPlayLevel: PIE: World Init took: (0.002662s)
+[2018.01.31-17.15.48:723][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.072825s)
+[2018.01.31-17.15.48:786][678]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.15.48:830][678]LogInit: FAudioDevice initialized.
+[2018.01.31-17.15.48:912][678]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.15.48:952][678]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.15.48
+[2018.01.31-17.15.48:958][678]LogWorld: Bringing up level for play took: 0.043202
+[2018.01.31-17.15.48:982][678]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.058
+[2018.01.31-17.16.41:165][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Animations/Robot/Walk" FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset" SILENT=true
+[2018.01.31-17.16.41:249][903]LogSavePackage: Save=24.34ms
+[2018.01.31-17.16.41:249][903]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/WalkAB62000D43B2DE2938123EAAAACB47B4.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset'
+[2018.01.31-17.16.41:256][903]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Animations/Robot/Walk.uasset
+[2018.01.31-17.17.15:815][889]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.17.15:909][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.17.15:910][889]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:17:15 PM)
+[2018.01.31-17.17.15:910][889]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.17.15:981][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070318s)
+[2018.01.31-17.17.15:983][889]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.17.15:984][889]LogPlayLevel: PIE: World Init took: (0.002809s)
+[2018.01.31-17.17.15:985][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.075264s)
+[2018.01.31-17.17.16:084][889]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.17.16:131][889]LogInit: FAudioDevice initialized.
+[2018.01.31-17.17.16:184][889]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.17.16:225][889]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.17.16
+[2018.01.31-17.17.16:231][889]LogWorld: Bringing up level for play took: 0.044451
+[2018.01.31-17.17.16:238][889]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.198
+[2018.01.31-17.17.58:963][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScroller/Maps/Level_test' took 0.049
+[2018.01.31-17.17.58:967][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain] ([1] browsable assets)...
+[2018.01.31-17.17.58:967][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain]
+[2018.01.31-17.17.59:706][985]LogSavePackage: Save=665.68ms
+[2018.01.31-17.17.59:706][985]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/BP_RobotMain_Auto3F76D67EF427A5D0E3CB75CA8F04B8F7B.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto3.uasset'
+[2018.01.31-17.17.59:709][985]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto3.uasset
+[2018.01.31-17.17.59:779][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1] ([1] browsable assets)...
+[2018.01.31-17.17.59:809][985]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1.Walk1]
+[2018.01.31-17.17.59:809][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1]
+[2018.01.31-17.17.59:929][985]LogSavePackage: Save=58.16ms
+[2018.01.31-17.17.59:929][985]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk1_Auto31754307049C5DE0727AB61BD876FBD54.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1_Auto3.uasset'
+[2018.01.31-17.17.59:931][985]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1_Auto3.uasset
+[2018.01.31-17.17.59:932][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Animations/Robot/Walk] ([1] browsable assets)...
+[2018.01.31-17.17.59:963][985]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Animations/Robot/Walk.Walk]
+[2018.01.31-17.17.59:963][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Animations/Robot/Walk]
+[2018.01.31-17.18.00:111][985]LogSavePackage: Save=41.25ms
+[2018.01.31-17.18.00:111][985]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Auto3C279D68C46EF18B3168DE984CFD4B5E4.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Animations/Robot/Walk_Auto3.uasset'
+[2018.01.31-17.18.00:113][985]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Animations/Robot/Walk_Auto3.uasset
+[2018.01.31-17.18.00:113][985]LogFileHelpers: Auto-saving content packages took 1.149
+[2018.01.31-17.18.23:298][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.18.23:381][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.18.23:381][228]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:18:23 PM)
+[2018.01.31-17.18.23:381][228]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.18.23:451][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068883s)
+[2018.01.31-17.18.23:453][228]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.18.23:454][228]LogPlayLevel: PIE: World Init took: (0.002938s)
+[2018.01.31-17.18.23:455][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.073364s)
+[2018.01.31-17.18.23:509][228]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.18.23:554][228]LogInit: FAudioDevice initialized.
+[2018.01.31-17.18.23:602][228]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.18.23:638][228]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.18.23
+[2018.01.31-17.18.23:643][228]LogWorld: Bringing up level for play took: 0.040108
+[2018.01.31-17.18.23:651][228]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.611
+[2018.01.31-17.19.12:052][407]LogSavePackage: Save=32.12ms
+[2018.01.31-17.19.12:052][407]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk1A3489B854DDEFF8C57DA189765AA1AA9.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1.uasset'
+[2018.01.31-17.19.12:058][407]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk1.uasset
+[2018.01.31-17.22.22:717][747]LogSavePackage: Save=29.67ms
+[2018.01.31-17.22.22:717][747]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite70995C53140856E8426666D9952483A6B.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite7.uasset'
+[2018.01.31-17.22.22:724][747]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite7.uasset
+[2018.01.31-17.28.05:432][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScroller/Maps/Level_test' took 0.077
+[2018.01.31-17.28.05:437][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain] ([1] browsable assets)...
+[2018.01.31-17.28.05:437][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain]
+[2018.01.31-17.28.06:190][199]LogSavePackage: Save=675.97ms
+[2018.01.31-17.28.06:190][199]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/BP_RobotMain_Auto468C9C20A4E16E8EB9DE547A9107365BE.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto4.uasset'
+[2018.01.31-17.28.06:193][199]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto4.uasset
+[2018.01.31-17.28.06:195][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite] ([1] browsable assets)...
+[2018.01.31-17.28.06:195][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite]
+[2018.01.31-17.28.06:284][199]LogSavePackage: Save=17.35ms
+[2018.01.31-17.28.06:284][199]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_Sprite_Auto44658014842636ABFCB74FAB89B7C6D3C.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite_Auto4.uasset'
+[2018.01.31-17.28.06:287][199]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite_Auto4.uasset
+[2018.01.31-17.28.06:288][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3] ([1] browsable assets)...
+[2018.01.31-17.28.06:319][199]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3.Walk3]
+[2018.01.31-17.28.06:320][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3]
+[2018.01.31-17.28.06:353][199]LogSavePackage: Save=28.42ms
+[2018.01.31-17.28.06:353][199]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk3_Auto4DF67E71947EB3AA3B10F33BCDEAC2954.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3_Auto4.uasset'
+[2018.01.31-17.28.06:355][199]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3_Auto4.uasset
+[2018.01.31-17.28.06:357][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2] ([1] browsable assets)...
+[2018.01.31-17.28.06:388][199]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2.Walk2]
+[2018.01.31-17.28.06:388][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2]
+[2018.01.31-17.28.06:442][199]LogSavePackage: Save=22.65ms
+[2018.01.31-17.28.06:442][199]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk2_Auto4B0AA89B040A65E1F71D746990CA022C4.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2_Auto4.uasset'
+[2018.01.31-17.28.06:444][199]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2_Auto4.uasset
+[2018.01.31-17.28.06:445][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1] ([1] browsable assets)...
+[2018.01.31-17.28.06:477][199]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1.Walk1]
+[2018.01.31-17.28.06:477][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1]
+[2018.01.31-17.28.06:517][199]LogSavePackage: Save=23.41ms
+[2018.01.31-17.28.06:517][199]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk1_Auto4B03EDA584469F5FE03BDDA82D867BC28.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1_Auto4.uasset'
+[2018.01.31-17.28.06:519][199]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1_Auto4.uasset
+[2018.01.31-17.28.06:520][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4] ([1] browsable assets)...
+[2018.01.31-17.28.06:550][199]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.Walk4]
+[2018.01.31-17.28.06:550][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4]
+[2018.01.31-17.28.06:583][199]LogSavePackage: Save=24.00ms
+[2018.01.31-17.28.06:584][199]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk4_Auto46EF7CB874E69A58587B1CCBD8581267A.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4_Auto4.uasset'
+[2018.01.31-17.28.06:585][199]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4_Auto4.uasset
+[2018.01.31-17.28.06:586][199]LogFileHelpers: Auto-saving content packages took 1.152
+[2018.01.31-17.29.05:900][200]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.29.05:987][200]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.31-17.29.06:174][200]LogPlayLevel: [PlayLevel] Compiling BP_RobotMain before play...
+[2018.01.31-17.29.06:466][200]LogPlayLevel: PlayLevel: Blueprint regeneration took 479 ms (1 blueprints)
+[2018.01.31-17.29.06:466][200]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:29:06 PM)
+[2018.01.31-17.29.06:466][200]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.29.06:533][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066899s)
+[2018.01.31-17.29.06:536][200]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.29.06:536][200]LogPlayLevel: PIE: World Init took: (0.002497s)
+[2018.01.31-17.29.06:538][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.071264s)
+[2018.01.31-17.29.06:590][200]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.29.06:636][200]LogInit: FAudioDevice initialized.
+[2018.01.31-17.29.06:688][200]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.29.06:724][200]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.29.06
+[2018.01.31-17.29.06:730][200]LogWorld: Bringing up level for play took: 0.039665
+[2018.01.31-17.29.06:737][200]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.697
+[2018.01.31-17.29.14:310][441]LogRenderer: Reallocating scene render targets to support 1084x556 Format 9 NumSamples 1 (Frame:12744).
+[2018.01.31-17.29.19:342][747]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.29.19:429][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.29.19:429][747]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:29:19 PM)
+[2018.01.31-17.29.19:429][747]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.29.19:500][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071071s)
+[2018.01.31-17.29.19:503][747]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.29.19:504][747]LogPlayLevel: PIE: World Init took: (0.002771s)
+[2018.01.31-17.29.19:505][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.075417s)
+[2018.01.31-17.29.19:563][747]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.29.19:640][747]LogInit: FAudioDevice initialized.
+[2018.01.31-17.29.19:694][747]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.29.19:738][747]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.29.19
+[2018.01.31-17.29.19:744][747]LogWorld: Bringing up level for play took: 0.047965
+[2018.01.31-17.29.19:751][747]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.711
+[2018.01.31-17.29.50:979][903]BlueprintLog: New page: Compile BP_RobotMain
+[2018.01.31-17.29.53:029][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.29.53:132][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.29.53:133][924]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:29:53 PM)
+[2018.01.31-17.29.53:133][924]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.29.53:207][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073606s)
+[2018.01.31-17.29.53:209][924]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.29.53:210][924]LogPlayLevel: PIE: World Init took: (0.002584s)
+[2018.01.31-17.29.53:211][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.077180s)
+[2018.01.31-17.29.53:273][924]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.29.53:318][924]LogInit: FAudioDevice initialized.
+[2018.01.31-17.29.53:413][924]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.29.53:455][924]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.29.53
+[2018.01.31-17.29.53:461][924]LogWorld: Bringing up level for play took: 0.046020
+[2018.01.31-17.29.53:495][924]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.455
+[2018.01.31-17.30.23:518][505]LogSavePackage: Save=27.43ms
+[2018.01.31-17.30.23:518][505]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk4DFF903D14D563E376798A88E36BE8A59.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.uasset'
+[2018.01.31-17.30.23:539][505]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.uasset
+[2018.01.31-17.30.25:649][626]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.30.25:743][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.30.25:743][626]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:30:25 PM)
+[2018.01.31-17.30.25:744][626]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.30.25:813][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069382s)
+[2018.01.31-17.30.25:816][626]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.30.25:817][626]LogPlayLevel: PIE: World Init took: (0.003271s)
+[2018.01.31-17.30.25:818][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.073971s)
+[2018.01.31-17.30.25:885][626]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.30.25:930][626]LogInit: FAudioDevice initialized.
+[2018.01.31-17.30.25:984][626]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.30.26:023][626]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.30.26
+[2018.01.31-17.30.26:028][626]LogWorld: Bringing up level for play took: 0.043073
+[2018.01.31-17.30.26:036][626]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.996
+[2018.01.31-17.30.43:568][498]LogSavePackage: Save=23.38ms
+[2018.01.31-17.30.43:568][498]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk4F0E49656428A5E91484295AD50A3F0F7.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.uasset'
+[2018.01.31-17.30.43:575][498]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.uasset
+[2018.01.31-17.30.45:708][623]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.30.45:806][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.30.45:806][623]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:30:45 PM)
+[2018.01.31-17.30.45:807][623]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.30.45:878][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071417s)
+[2018.01.31-17.30.45:881][623]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.30.45:882][623]LogPlayLevel: PIE: World Init took: (0.003483s)
+[2018.01.31-17.30.45:883][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076368s)
+[2018.01.31-17.30.45:945][623]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.30.45:989][623]LogInit: FAudioDevice initialized.
+[2018.01.31-17.30.46:037][623]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.30.46:075][623]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.30.46
+[2018.01.31-17.30.46:080][623]LogWorld: Bringing up level for play took: 0.041366
+[2018.01.31-17.30.46:088][623]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.047
+[2018.01.31-17.31.11:511][ 53]LogSavePackage: Save=26.60ms
+[2018.01.31-17.31.11:511][ 53]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk4D7D1D1CA4E2EB85CE9D5ADAE0C90960D.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.uasset'
+[2018.01.31-17.31.11:519][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk4.uasset
+[2018.01.31-17.31.12:950][122]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.31.13:040][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.31.13:041][122]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:31:13 PM)
+[2018.01.31-17.31.13:041][122]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.31.13:108][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066466s)
+[2018.01.31-17.31.13:110][122]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.31.13:111][122]LogPlayLevel: PIE: World Init took: (0.002430s)
+[2018.01.31-17.31.13:111][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.070039s)
+[2018.01.31-17.31.13:171][122]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.31.13:216][122]LogInit: FAudioDevice initialized.
+[2018.01.31-17.31.13:266][122]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.31.13:303][122]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.31.13
+[2018.01.31-17.31.13:309][122]LogWorld: Bringing up level for play took: 0.041293
+[2018.01.31-17.31.13:317][122]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.277
+[2018.01.31-17.33.50:900][826]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.33.51:001][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.33.51:002][826]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:33:51 PM)
+[2018.01.31-17.33.51:002][826]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.33.51:069][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066643s)
+[2018.01.31-17.33.51:071][826]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.33.51:072][826]LogPlayLevel: PIE: World Init took: (0.002770s)
+[2018.01.31-17.33.51:072][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.070501s)
+[2018.01.31-17.33.51:129][826]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.33.51:173][826]LogInit: FAudioDevice initialized.
+[2018.01.31-17.33.51:264][826]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.33.51:304][826]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.33.51
+[2018.01.31-17.33.51:309][826]LogWorld: Bringing up level for play took: 0.043420
+[2018.01.31-17.33.51:342][826]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.303
+[2018.01.31-17.34.04:904][306]LogRenderer: Reallocating scene render targets to support 1084x648 Format 9 NumSamples 1 (Frame:1).
+[2018.01.31-17.34.34:664][736]LogSavePackage: Save=28.09ms
+[2018.01.31-17.34.34:664][736]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite1728135E746375EA11BFF6AB73994708C.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite1.uasset'
+[2018.01.31-17.34.34:671][736]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite1.uasset
+[2018.01.31-17.37.12:668][932]LogSavePackage: Save=29.13ms
+[2018.01.31-17.37.12:669][932]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite8CDD8A494C00F6D04CF899B8FDBE6343.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite.uasset'
+[2018.01.31-17.37.12:671][932]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite.uasset
+[2018.01.31-17.37.19:634][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.37.19:734][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.37.19:735][207]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:37:19 PM)
+[2018.01.31-17.37.19:735][207]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.37.19:805][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070366s)
+[2018.01.31-17.37.19:807][207]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.37.19:808][207]LogPlayLevel: PIE: World Init took: (0.002364s)
+[2018.01.31-17.37.19:809][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.073806s)
+[2018.01.31-17.37.19:884][207]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.37.19:929][207]LogInit: FAudioDevice initialized.
+[2018.01.31-17.37.20:018][207]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.37.20:060][207]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.37.20
+[2018.01.31-17.37.20:066][207]LogWorld: Bringing up level for play took: 0.046801
+[2018.01.31-17.37.20:099][207]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.059
+[2018.01.31-17.37.29:129][427]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.37.29:228][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.37.29:228][427]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:37:29 PM)
+[2018.01.31-17.37.29:228][427]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.37.29:296][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067725s)
+[2018.01.31-17.37.29:299][427]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.37.29:300][427]LogPlayLevel: PIE: World Init took: (0.003255s)
+[2018.01.31-17.37.29:301][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.072220s)
+[2018.01.31-17.37.29:369][427]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.37.29:417][427]LogInit: FAudioDevice initialized.
+[2018.01.31-17.37.29:517][427]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.37.29:556][427]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.37.29
+[2018.01.31-17.37.29:562][427]LogWorld: Bringing up level for play took: 0.044144
+[2018.01.31-17.37.29:595][427]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.555
+[2018.01.31-17.37.29:813][428]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058653 > MaxSimulationTimeStep (0.050) for 'BP_RobotMain_C_0', movement 'Walking'
+[2018.01.31-17.39.10:543][751]Cmd: TRANSACTION UNDO
+[2018.01.31-17.39.10:543][751]LogEditorTransaction: Undo Set Vector Property
+[2018.01.31-17.39.56:378][ 65]Cmd: TRANSACTION UNDO
+[2018.01.31-17.39.56:379][ 65]LogEditorTransaction: Undo Set Vector Property
+[2018.01.31-17.40.04:992][500]Cmd: TRANSACTION UNDO
+[2018.01.31-17.40.04:992][500]LogEditorTransaction: Undo Edit X
+[2018.01.31-17.40.12:061][850]LogSavePackage: Save=85.20ms
+[2018.01.31-17.40.12:063][850]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite5D813FB5142A486375FA829A6CB1DE27C.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite5.uasset'
+[2018.01.31-17.40.12:070][850]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite5.uasset
+[2018.01.31-17.40.14:200][944]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.40.14:295][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.40.14:296][944]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:40:14 PM)
+[2018.01.31-17.40.14:296][944]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.40.14:370][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073330s)
+[2018.01.31-17.40.14:372][944]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.40.14:373][944]LogPlayLevel: PIE: World Init took: (0.002810s)
+[2018.01.31-17.40.14:374][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.077316s)
+[2018.01.31-17.40.14:436][944]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.40.14:484][944]LogInit: FAudioDevice initialized.
+[2018.01.31-17.40.14:534][944]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.40.14:571][944]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.40.14
+[2018.01.31-17.40.14:577][944]LogWorld: Bringing up level for play took: 0.040893
+[2018.01.31-17.40.14:584][944]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.456
+[2018.01.31-17.40.39:319][105]LogSavePackage: Save=31.91ms
+[2018.01.31-17.40.39:319][105]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite65AC0BBE940FCA8324F18048339CF6502.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.40.39:330][105]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.40.51:250][721]LogSavePackage: Save=29.42ms
+[2018.01.31-17.40.51:250][721]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite60B7D175841E291925FA2F692CDFCA172.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.40.51:258][721]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.41.18:956][ 72]LogSavePackage: Save=26.88ms
+[2018.01.31-17.41.18:957][ 72]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite4507F712D4FA62367FB5D5E8481499C85.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4.uasset'
+[2018.01.31-17.41.18:964][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4.uasset
+[2018.01.31-17.41.23:787][300]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.41.23:891][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.41.23:892][300]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:41:23 PM)
+[2018.01.31-17.41.23:892][300]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.41.23:962][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069890s)
+[2018.01.31-17.41.23:965][300]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.41.23:965][300]LogPlayLevel: PIE: World Init took: (0.002904s)
+[2018.01.31-17.41.23:966][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.074041s)
+[2018.01.31-17.41.24:032][300]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.41.24:082][300]LogInit: FAudioDevice initialized.
+[2018.01.31-17.41.24:168][300]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.41.24:208][300]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.41.24
+[2018.01.31-17.41.24:214][300]LogWorld: Bringing up level for play took: 0.043558
+[2018.01.31-17.41.24:247][300]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.207
+[2018.01.31-17.41.53:624][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.41.53:730][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.41.53:730][ 30]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:41:53 PM)
+[2018.01.31-17.41.53:730][ 30]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.41.53:804][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073230s)
+[2018.01.31-17.41.53:806][ 30]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.41.53:806][ 30]LogPlayLevel: PIE: World Init took: (0.002606s)
+[2018.01.31-17.41.53:808][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.077224s)
+[2018.01.31-17.41.53:870][ 30]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.41.53:915][ 30]LogInit: FAudioDevice initialized.
+[2018.01.31-17.41.54:002][ 30]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.41.54:044][ 30]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.41.54
+[2018.01.31-17.41.54:049][ 30]LogWorld: Bringing up level for play took: 0.044811
+[2018.01.31-17.41.54:082][ 30]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.042
+[2018.01.31-17.42.46:199][297]LogSavePackage: Save=28.11ms
+[2018.01.31-17.42.46:200][297]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite66D41F7EF49F5450FA1B49CBF1840EF17.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.42.46:206][297]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.42.50:375][495]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.42.50:468][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.42.50:469][495]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:42:50 PM)
+[2018.01.31-17.42.50:469][495]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.42.50:539][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069802s)
+[2018.01.31-17.42.50:541][495]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.42.50:543][495]LogPlayLevel: PIE: World Init took: (0.003870s)
+[2018.01.31-17.42.50:544][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.074964s)
+[2018.01.31-17.42.50:613][495]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.42.50:658][495]LogInit: FAudioDevice initialized.
+[2018.01.31-17.42.50:711][495]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.42.50:747][495]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.42.50
+[2018.01.31-17.42.50:752][495]LogWorld: Bringing up level for play took: 0.039734
+[2018.01.31-17.42.50:760][495]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test -0.28
+[2018.01.31-17.43.54:527][654]LogSavePackage: Save=32.77ms
+[2018.01.31-17.43.54:528][654]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite627A0A9D4465E0CF6404F2195E1F02268.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.43.54:536][654]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.44.03:138][ 56]LogSavePackage: Save=31.25ms
+[2018.01.31-17.44.03:138][ 56]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite6A009A46945563667857740966B06D595.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.44.03:147][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.44.05:317][152]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.44.05:421][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.44.05:421][152]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:44:05 PM)
+[2018.01.31-17.44.05:422][152]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.44.05:494][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072370s)
+[2018.01.31-17.44.05:496][152]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.44.05:497][152]LogPlayLevel: PIE: World Init took: (0.002646s)
+[2018.01.31-17.44.05:498][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076681s)
+[2018.01.31-17.44.05:566][152]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.44.05:613][152]LogInit: FAudioDevice initialized.
+[2018.01.31-17.44.05:706][152]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.44.05:746][152]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.44.05
+[2018.01.31-17.44.05:752][152]LogWorld: Bringing up level for play took: 0.044372
+[2018.01.31-17.44.05:785][152]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.745
+[2018.01.31-17.44.20:592][636]LogSavePackage: Save=32.90ms
+[2018.01.31-17.44.20:592][636]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite6C2CC0229458269F34B6A208E94F7A243.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.44.20:599][636]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.44.21:857][688]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.44.21:947][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.44.21:947][688]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:44:21 PM)
+[2018.01.31-17.44.21:947][688]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.44.22:019][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071552s)
+[2018.01.31-17.44.22:022][688]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.44.22:023][688]LogPlayLevel: PIE: World Init took: (0.003486s)
+[2018.01.31-17.44.22:024][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076461s)
+[2018.01.31-17.44.22:095][688]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.44.22:140][688]LogInit: FAudioDevice initialized.
+[2018.01.31-17.44.22:192][688]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.44.22:230][688]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.44.22
+[2018.01.31-17.44.22:235][688]LogWorld: Bringing up level for play took: 0.040982
+[2018.01.31-17.44.22:242][688]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 1.202
+[2018.01.31-17.44.30:692][ 63]LogSavePackage: Save=29.19ms
+[2018.01.31-17.44.30:692][ 63]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite6DCAD53E7445107EB11A9FE9C05899631.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset'
+[2018.01.31-17.44.30:699][ 63]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite6.uasset
+[2018.01.31-17.44.34:768][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.31-17.44.34:873][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-17.44.34:873][249]PIE: New page: PIE session: Level_test (Jan 31, 2018, 9:44:34 PM)
+[2018.01.31-17.44.34:874][249]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Maps/UEDPIE_0_Level_test
+[2018.01.31-17.44.34:946][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072105s)
+[2018.01.31-17.44.34:948][249]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.44.34:949][249]LogPlayLevel: PIE: World Init took: (0.003505s)
+[2018.01.31-17.44.34:950][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Maps/Level_test.Level_test to /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test (0.076808s)
+[2018.01.31-17.44.35:012][249]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-17.44.35:059][249]LogInit: FAudioDevice initialized.
+[2018.01.31-17.44.35:154][249]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.31-17.44.35:194][249]LogWorld: Bringing World /Game/2DSideScroller/Maps/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2018.01.31-19.44.35
+[2018.01.31-17.44.35:200][249]LogWorld: Bringing up level for play took: 0.043890
+[2018.01.31-17.44.35:231][249]PIE: Play in editor start time for /Game/2DSideScroller/Maps/UEDPIE_0_Level_test 0.192
+[2018.01.31-17.44.59:465][894]LogSavePackage: Save=33.42ms
+[2018.01.31-17.44.59:465][894]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite5711C147843E292B182BE359D8896763C.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite5.uasset'
+[2018.01.31-17.44.59:473][894]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite5.uasset
+[2018.01.31-17.45.25:761][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScroller/Maps/Level_test' took 0.062
+[2018.01.31-17.45.25:767][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain] ([1] browsable assets)...
+[2018.01.31-17.45.25:767][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain]
+[2018.01.31-17.45.26:520][ 68]LogSavePackage: Save=677.91ms
+[2018.01.31-17.45.26:520][ 68]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/BP_RobotMain_Auto52F0310044D4336D03A1BDE818A19C359.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto5.uasset'
+[2018.01.31-17.45.26:593][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain_Auto5.uasset
+[2018.01.31-17.45.26:596][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2] ([1] browsable assets)...
+[2018.01.31-17.45.26:626][ 68]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2.Run_Sprite2]
+[2018.01.31-17.45.26:627][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2]
+[2018.01.31-17.45.26:732][ 68]LogSavePackage: Save=31.58ms
+[2018.01.31-17.45.26:732][ 68]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite2_Auto512B5172E4FA2EAF81A4F83A6E950A5DF.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2_Auto5.uasset'
+[2018.01.31-17.45.26:734][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2_Auto5.uasset
+[2018.01.31-17.45.26:736][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3] ([1] browsable assets)...
+[2018.01.31-17.45.26:766][ 68]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3.Run_Sprite3]
+[2018.01.31-17.45.26:766][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3]
+[2018.01.31-17.45.26:865][ 68]LogSavePackage: Save=26.96ms
+[2018.01.31-17.45.26:866][ 68]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite3_Auto5E081CC3C427DAF6C5F47AAA93FEF19A0.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3_Auto5.uasset'
+[2018.01.31-17.45.26:868][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3_Auto5.uasset
+[2018.01.31-17.45.26:870][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4] ([1] browsable assets)...
+[2018.01.31-17.45.26:900][ 68]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4.Run_Sprite4]
+[2018.01.31-17.45.26:900][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4]
+[2018.01.31-17.45.26:990][ 68]LogSavePackage: Save=27.44ms
+[2018.01.31-17.45.26:990][ 68]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite4_Auto50EEB9F4C4681DCB070F8C4AB6331FDAA.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4_Auto5.uasset'
+[2018.01.31-17.45.26:992][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4_Auto5.uasset
+[2018.01.31-17.45.26:994][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7] ([1] browsable assets)...
+[2018.01.31-17.45.27:025][ 68]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7.Run_Sprite7]
+[2018.01.31-17.45.27:025][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7]
+[2018.01.31-17.45.27:143][ 68]LogSavePackage: Save=45.55ms
+[2018.01.31-17.45.27:144][ 68]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite7_Auto5199209C6474B59384AF33DA8CFE470F6.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7_Auto5.uasset'
+[2018.01.31-17.45.27:146][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7_Auto5.uasset
+[2018.01.31-17.45.27:148][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8] ([1] browsable assets)...
+[2018.01.31-17.45.27:179][ 68]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8.Run_Sprite8]
+[2018.01.31-17.45.27:179][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8]
+[2018.01.31-17.45.27:284][ 68]LogSavePackage: Save=29.23ms
+[2018.01.31-17.45.27:284][ 68]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite8_Auto5752DC1514B6ECE94FD60C3A657537962.tmp' to '../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8_Auto5.uasset'
+[2018.01.31-17.45.27:286][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Saved/Autosaves/Game/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8_Auto5.uasset
+[2018.01.31-17.45.27:287][ 68]LogFileHelpers: Auto-saving content packages took 1.523
+[2018.01.31-17.50.41:834][405]LogAIModule: Creating AISystem for world Map
+[2018.01.31-17.50.43:342][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Blueprints/Robot/BP_RobotMain" FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Blueprints/Robot/BP_RobotMain.uasset" SILENT=true
+[2018.01.31-17.50.44:134][405]LogSavePackage: Save=703.48ms
+[2018.01.31-17.50.44:134][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/BP_RobotMain739EA9984C74D9A763380AB128904652.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Blueprints/Robot/BP_RobotMain.uasset'
+[2018.01.31-17.50.44:168][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Blueprints/Robot/BP_RobotMain.uasset
+[2018.01.31-17.50.44:309][405]LogSavePackage: Save=65.22ms
+[2018.01.31-17.50.44:309][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite2D87A8AD241976309D10DC59B93468F91.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2.uasset'
+[2018.01.31-17.50.44:333][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite2.uasset
+[2018.01.31-17.50.44:428][405]LogSavePackage: Save=18.95ms
+[2018.01.31-17.50.44:428][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite315283D7A474000EAA3C73B9EF4B1B81A.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3.uasset'
+[2018.01.31-17.50.44:452][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite3.uasset
+[2018.01.31-17.50.44:567][405]LogSavePackage: Save=31.09ms
+[2018.01.31-17.50.44:568][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite4089AC69F42364C0D7D019CA214C67A7E.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4.uasset'
+[2018.01.31-17.50.44:590][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite4.uasset
+[2018.01.31-17.50.44:687][405]LogSavePackage: Save=19.39ms
+[2018.01.31-17.50.44:688][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite743F8ADCF4E1C96270042989E659368AB.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7.uasset'
+[2018.01.31-17.50.44:713][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite7.uasset
+[2018.01.31-17.50.44:820][405]LogSavePackage: Save=22.98ms
+[2018.01.31-17.50.44:820][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Run_Sprite85CA41EBF4B6E30CC6193AA83A2C848F1.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8.uasset'
+[2018.01.31-17.50.44:843][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/RunFrames/Run/Run_Sprite8.uasset
+[2018.01.31-17.50.44:906][405]LogSavePackage: Save=24.73ms
+[2018.01.31-17.50.44:906][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk1B46FB33A45168AF614C404BC53879383.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1.uasset'
+[2018.01.31-17.50.44:942][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk1.uasset
+[2018.01.31-17.50.45:015][405]LogSavePackage: Save=24.22ms
+[2018.01.31-17.50.45:015][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk298C28DE34D3D9AE3E54EA7AE2FFE240C.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2.uasset'
+[2018.01.31-17.50.45:038][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk2.uasset
+[2018.01.31-17.50.45:100][405]LogSavePackage: Save=24.29ms
+[2018.01.31-17.50.45:100][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk3BB9E3B8D4541E2E43A8C43813172659C.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3.uasset'
+[2018.01.31-17.50.45:118][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk3.uasset
+[2018.01.31-17.50.45:217][405]LogSavePackage: Save=20.57ms
+[2018.01.31-17.50.45:217][405]LogSavePackage: Moving '../../../../../Epic Projects/Second_test/Saved/Walk_SpriteCD87F2DE4CD485E935CF5AB8721ABB16.tmp' to '../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite.uasset'
+[2018.01.31-17.50.45:225][405]LogSavePackage: Display: Finished SavePackage ../../../../../Epic Projects/Second_test/Content/2DSideScroller/Sprites/RobotCharacter/WalkFrame/Walk/Walk_Sprite.uasset
+[2018.01.31-17.50.45:237][405]Cmd: MAP LOAD FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-17.50.45:238][405]LightingResults: New page: Lighting Build
+[2018.01.31-17.50.45:241][405]LoadErrors: New page: Loading map: Map.umap
+[2018.01.31-17.50.45:253][405]MapCheck: New page: Map Check
+[2018.01.31-17.50.45:253][405]LightingResults: New page: Lighting Build
+[2018.01.31-17.50.45:774][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-17.50.46:003][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-17.50.46:354][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 349.879ms to complete.
+[2018.01.31-17.50.46:357][405]LogFileHelpers: Loading map 'Map' took 1.132
+[2018.01.31-17.50.58:875][935]LogAIModule: Creating AISystem for world Level_test
+[2018.01.31-17.50.59:038][935]Cmd: MAP LOAD FILE="../../../../../Epic Projects/Second_test/Content/2DSideScroller/Maps/Level_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-17.50.59:039][935]LightingResults: New page: Lighting Build
+[2018.01.31-17.50.59:043][935]LoadErrors: New page: Loading map: Level_test.umap
+[2018.01.31-17.50.59:045][935]MapCheck: New page: Map Check
+[2018.01.31-17.50.59:045][935]LightingResults: New page: Lighting Build
+[2018.01.31-17.51.00:546][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-17.51.00:756][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-17.51.01:047][935]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 290.862ms to complete.
+[2018.01.31-17.51.01:052][935]LogFileHelpers: Loading map 'Level_test' took 2.014
+[2018.01.31-17.52.33:692][881]Cmd: TRANSACTION UNDO
+[2018.01.31-17.52.33:693][881]LogEditorTransaction: Undo Modification in Viewport
+[2018.01.31-17.52.34:856][918]Cmd: TRANSACTION UNDO
+[2018.01.31-17.52.34:856][918]LogEditorTransaction: Undo Set Vector Property
+[2018.01.31-17.52.37:258][  1]Cmd: TRANSACTION UNDO
+[2018.01.31-17.52.37:258][  1]LogEditorTransaction: Undo Set Vector Property
+[2018.01.31-17.53.41:362][ 93]LogWindows: Error: === Critical error: ===
+[2018.01.31-17.53.41:362][ 93]LogWindows: Error: 
+[2018.01.31-17.53.41:362][ 93]LogWindows: Error: Fatal error!
+[2018.01.31-17.53.41:362][ 93]LogWindows: Error: 
+[2018.01.31-17.53.41:362][ 93]LogWindows: Error: 
+[2018.01.31-17.53.41:456][ 93]LogExit: Executing StaticShutdownAfterError
+[2018.01.31-17.53.44:452][ 93]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.31-17.53.44:529][ 93]Log file closed, 01/31/18 19:53:44

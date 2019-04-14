@@ -1,0 +1,69 @@
+DlgVersion 7
+DlgName "DlgMilitary"
+DlgGuid {  A 61662490 B 1133153602 C 1437453998 D 683745927 }
+Node_Speech StartNode
+{
+	Text ""
+	SpeakerState "None"
+	bIsVirtualParent False
+	OwnerName "None"
+	bCheckChildrenOnEvaluation False
+	VoiceSoundWave ""
+	VoiceDialogueWave ""
+	Children { {  TargetIndex 0 Text "Next" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+}
+DlgParticipantClasses
+{
+	{  ParticipantName "TVTM" ParticipantClass "/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C" }
+	{  ParticipantName "Military" ParticipantClass "/Game/2DSideScroller/Blueprints/OtherCharacters/Neutral/CH_Military.CH_Military_C" }
+}
+Node Nodes
+{
+	// 0
+	Node_Speech 
+	{
+		Text "alo"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "TVTM"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children
+		{
+			{  TargetIndex 1 Text "ALO" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True }
+			{  TargetIndex 2 Text "ali" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True }
+		}
+	}
+	// 1
+	Node_Speech 
+	{
+		Text "..."
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Military"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children { {  TargetIndex 3 Text "Finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 2
+	Node_Speech 
+	{
+		Text "ALI"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Military"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		EnterConditions { {  Strength "EDlgConditionStrength::DlgConditionStrengthStrong" ConditionType "EDlgConditionType::DlgConditionClassBoolVariable" ParticipantName "Military" CallbackName "IsMeetTVTM" Operation "EDlgOperation::DlgEqual" CompareType "EDlgCompareType::DlgCompareToConst" OtherParticipantName "None" OtherVariableName "None" IntValue 0 FloatValue 0.0 NameValue "None" bBoolValue True bLongTermMemory True } }
+		Children { {  TargetIndex 3 Text "Finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 3
+	Node_End 
+	{
+		OwnerName "Military"
+		bCheckChildrenOnEvaluation False
+	}
+}

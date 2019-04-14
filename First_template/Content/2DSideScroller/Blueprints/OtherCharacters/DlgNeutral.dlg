@@ -1,0 +1,56 @@
+DlgVersion 7
+DlgName "DlgNeutral"
+DlgGuid {  A -66103998 B 1261260157 C -1945405778 D 653926983 }
+Node_Speech StartNode
+{
+	Text ""
+	SpeakerState "None"
+	bIsVirtualParent False
+	OwnerName "None"
+	bCheckChildrenOnEvaluation False
+	VoiceSoundWave ""
+	VoiceDialogueWave ""
+	Children { {  TargetIndex 0 Text "Next" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+}
+DlgParticipantClasses
+{
+	{  ParticipantName "Neutral" ParticipantClass "/Game/2DSideScroller/Blueprints/OtherCharacters/BP_Neutral.BP_Neutral_C" }
+	{  ParticipantName "TVTM" ParticipantClass "/Game/2DSideScroller/Blueprints/Robot/CH_RobotMain.CH_RobotMain_C" }
+}
+Node Nodes
+{
+	// 0
+	Node_Speech 
+	{
+		Text "Hello"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Neutral"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children
+		{
+			{  TargetIndex 1 Text "ask " SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True }
+			{  TargetIndex 2 Text "Finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True }
+		}
+	}
+	// 1
+	Node_Speech 
+	{
+		Text "ksa"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "TVTM"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children { {  TargetIndex 2 Text "Finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 2
+	Node_End 
+	{
+		OwnerName "Neutral"
+		bCheckChildrenOnEvaluation False
+	}
+}

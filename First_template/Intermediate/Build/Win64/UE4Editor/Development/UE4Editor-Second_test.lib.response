@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Second_test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Epic Games\Projects\Second_test 4.19\Intermediate\Build\Win64\UE4Editor\Development\Second_test\MyClass.cpp.obj"
+"D:\Epic Games\Projects\Second_test 4.19\Intermediate\Build\Win64\UE4Editor\Development\Second_test\NewClass.cpp.obj"
+"D:\Epic Games\Projects\Second_test 4.19\Intermediate\Build\Win64\UE4Editor\Development\Second_test\Second_test.cpp.obj"
+"D:\Epic Games\Projects\Second_test 4.19\Intermediate\Build\Win64\UE4Editor\Development\Second_test\SMyCompoundWidget.cpp.obj"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Second_test\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Epic Games\Projects\Second_test 4.19\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Second_test.lib"
